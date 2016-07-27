@@ -1,0 +1,9 @@
+{% extends 'runjobs/base.html' %}
+
+{% block content %}
+<h1>Submit a Job</h1>
+<form class="job-form" method="POST">{% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit"  class="save btn btn-default">Submit</button>
+</form>
+{% endblock %}

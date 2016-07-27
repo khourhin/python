@@ -1,0 +1,284 @@
+status: 200
+content-length: 45667
+vary: Accept-Encoding
+x-ua-compatible: IE=Edge
+content-location: http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1z1pzJaapA6VPo0_rTS_AHq0VY8OF1KrStj2milWcAwqPfr9Uz
+server: Apache
+content-type: application/rss+xml; charset=utf-8
+date: Tue, 26 May 2015 13:27:41 GMT
+-content-encoding: gzip
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>pubmed: rnaseq</title>
+	<link>http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=PubMed&amp;term=rnaseq</link>
+	<description>NCBI: db=pubmed; Term=rnaseq</description>
+	<language>en-us</language>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<ttl>1440</ttl>
+	<image>
+		<title>NCBI pubmed</title>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query/static/gifs/iconsml.gif</url>
+		<link>http://www.ncbi.nlm.nih.gov/sites/entrez</link>
+		<description>PubMed comprises more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.</description>
+	</image>
+<item>
+    <title>Enriched transcription factor signatures in triple negative breast cancer indicates possible targeted therapies with existing drugs.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26005638?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26005638">Related Articles</a></td></tr></table>
+        <p><b>Enriched transcription factor signatures in triple negative breast cancer indicates possible targeted therapies with existing drugs.</b></p>          
+        <p>Meta Gene. 2015 Jun;4:129-41</p>
+        <p>Authors:  Willis S, De P, Dey N, Long B, Young B, Sparano JA, Wang V, Davidson NE, Leyland-Jones BR</p>
+        <p>Abstract<br/>
+        PURPOSE: Triple negative (TN) breast cancers which lack expression of the estrogen (ER), progesterone (PR), and human epidermal growth factor 2 (HER2) receptors convey a poor prognosis due in part to a lack of targeted therapies.<br/>
+        METHODS: To identify viable targets for the treatment of TN disease, we have conducted a gene set enrichment analysis (GSEA) on seven different breast cancer whole genome gene expression cohorts comparing TN vs. ER + HER2 - to identify consistently enriched genes that share a common promoter motif. The seven cohorts were profiled on three different genome expression platforms (Affymetrix, Illumina and RNAseq) consisting in total of 2088 samples with IHC metadata.<br/>
+        RESULTS: GSEA identified enriched gene expression patterns in TN samples that share common promoter motifs associated with SOX9, E2F1, HIF1A, HMGA1, MYC BACH2, CEBPB, and GCNF/NR6A1. Unexpectedly, NR6A1 an orphan nuclear receptor normally expressed in germ cells of gonads is highly expressed in TN and ER + HER2 - samples making it an ideal drug target.<br/>
+        CONCLUSION: With the increasing number of large sample size breast cancer cohorts, an exploratory analysis of genes that are consistently enriched in TN sharing common promoter motifs allows for the identification of possible therapeutic targets with extensive validation in patient derived data sets.<br/>
+        </p><p>PMID: 26005638 [PubMed]</p>
+    ]]></description>
+    <author> Willis S, De P, Dey N, Long B, Young B, Sparano JA, Wang V, Davidson NE, Leyland-Jones BR</author>
+    <category>Meta Gene</category>
+    <guid isPermaLink="false">PubMed:26005638</guid>
+</item>
+<item>
+    <title>Classification of usual interstitial pneumonia in patients with interstitial lung disease: assessment of a machine learning approach using high-dimensional transcriptional data.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26003389?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S2213-2600(15)00140-X"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26003389">Related Articles</a></td></tr></table>
+        <p><b>Classification of usual interstitial pneumonia in patients with interstitial lung disease: assessment of a machine learning approach using high-dimensional transcriptional data.</b></p>          
+        <p>Lancet Respir Med. 2015 May 19;</p>
+        <p>Authors:  Kim SY, Diggans J, Pankratz D, Huang J, Pagan M, Sindy N, Tom E, Anderson J, Choi Y, Lynch DA, Steele MP, Flaherty KR, Brown KK, Farah H, Bukstein MJ, Pardo A, Selman M, Wolters PJ, Nathan SD, Colby TV, Myers JL, Katzenstein AL, Raghu G, Kennedy GC</p>
+        <p>Abstract<br/>
+        BACKGROUND: Idiopathic pulmonary fibrosis is a progressive fibrotic lung disease that distorts pulmonary architecture, leading to hypoxia, respiratory failure, and death. Diagnosis is difficult because other interstitial lung diseases have similar radiological and histopathological characteristics. A usual interstitial pneumonia pattern is a hallmark of idiopathic pulmonary fibrosis and is essential for its diagnosis. We aimed to develop a molecular test that distinguishes usual interstitial pneumonia from other interstitial lung diseases in surgical lung biopsy samples. The eventual goal of this research is to develop a method to diagnose idiopathic pulmonary fibrosis without the patient having to undergo surgery.<br/>
+        METHODS: We collected surgical lung biopsy samples from patients with various interstitial lung diseases at 11 hospitals in North America. Pathology diagnoses were confirmed by an expert panel. We measured RNA expression levels for 33 297 transcripts on microarrays in all samples. A classifier algorithm was trained on one set of samples and tested in a second set. We subjected a subset of samples to next-generation RNA sequencing (RNAseq) generating expression levels on 55 097 transcripts, and assessed a classifier trained on RNAseq data by cross-validation.<br/>
+        FINDINGS: We took 125 surgical lung biopsies from 86 patients. 58 samples were identified by the expert panel as usual interstitial pneumonia, 23 as non-specific interstitial pneumonia, 16 as hypersensitivity pneumonitis, four as sarcoidosis, four as respiratory bronchiolitis, two as organising pneumonia, and 18 as subtypes other than usual interstitial pneumonia. The microarray classifier was trained on 77 samples and was assessed in a test set of 48 samples, for which it had a specificity of 92% (95% CI 81-100) and a sensitivity of 82% (64-95). Based on a subset of 36 samples, the RNAseq classifier had a specificity of 95% (84-100) and a sensitivity of 59% (35-82).<br/>
+        INTERPRETATION: Our results show that the development of a genomic signature that predicts usual interstitial pneumonia is feasible. These findings are an important first step towards the development of a molecular test that could be applied to bronchoscopy samples, thus avoiding surgery in the diagnosis of idiopathic pulmonary fibrosis.<br/>
+        FUNDING: Veracyte.<br/>
+        </p><p>PMID: 26003389 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Kim SY, Diggans J, Pankratz D, Huang J, Pagan M, Sindy N, Tom E, Anderson J, Choi Y, Lynch DA, Steele MP, Flaherty KR, Brown KK, Farah H, Bukstein MJ, Pardo A, Selman M, Wolters PJ, Nathan SD, Colby TV, Myers JL, Katzenstein AL, Raghu G, Kennedy GC</author>
+    <category>Lancet Respir Med</category>
+    <guid isPermaLink="false">PubMed:26003389</guid>
+</item>
+<item>
+    <title>Recent advances in omic technologies for meat quality management.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26002117?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S0309-1740(15)30001-2"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26002117">Related Articles</a></td></tr></table>
+        <p><b>Recent advances in omic technologies for meat quality management.</b></p>          
+        <p>Meat Sci. 2015 May 12;</p>
+        <p>Authors:  Picard B, Lebret B, Cassar-Malek I, Liaubet L, Berri C, Le Bihan-Duval E, Hocquette JF, Renand G</p>
+        <p>Abstract<br/>
+        The knowledge of the molecular organization of living organisms evolved considerably during the last years. The methodologies associated also progressed with the development of the high-throughput sequencing (SNP array, RNAseq, etc.) and of genomic tools allowing the simultaneous analysis of hundreds or thousands of genes, proteins or metabolites. In farm animals, some proteins, mRNAs or metabolites whose abundance has been associated with meat quality traits have been detected in pig, cattle, chicken. They constitute biomarkers for the assessment and prediction of qualities of interest in each species, with potential biomarkers across species. The ongoing development of rapid methods will allow their use for decision-making and management tools in slaughterhouses, to better allocate carcasses or cuts to the appropriate markets. Besides, their application on living animals will help to improve genetic selection and to adapt a breeding system to fulfill expected quality level. The ultimate goal is to propose effective molecular tools for the management of product quality in meat production chains.<br/>
+        </p><p>PMID: 26002117 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Picard B, Lebret B, Cassar-Malek I, Liaubet L, Berri C, Le Bihan-Duval E, Hocquette JF, Renand G</author>
+    <category>Meat Sci</category>
+    <guid isPermaLink="false">PubMed:26002117</guid>
+</item>
+<item>
+    <title>IL6 Trans-signaling Increases Expression of Airways Disease Genes in Airway Smooth Muscle.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26001777?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26001777">Related Articles</a></td></tr></table>
+        <p><b>IL6 Trans-signaling Increases Expression of Airways Disease Genes in Airway Smooth Muscle.</b></p>          
+        <p>Am J Physiol Lung Cell Mol Physiol. 2015 May 22;:ajplung.00288.2014</p>
+        <p>Authors:  Robinson MB, Deshpande DA, Chou J, Cui W, Smith S, Langefeld C, Hastie AT, Bleecker ER, Hawkins GA</p>
+        <p>Abstract<br/>
+        Genetic data suggests that IL6 trans-signaling may have a pathogenic role in the lung; however, the effects of IL6 trans-signaling on lung effector cells have not been investigated. In this study, human airway smooth muscle (HASM) cells were treated with IL6 (classical) or IL6+sIL6R (trans-signaling) for 24 h and gene expression measured by RNAseq. Intracellular signaling and transcription factor activation were assessed by western blotting and luciferase assay respectively. The functional effect of IL6 trans-signaling was determined by proliferation assay. IL6 trans-signaling had no effect on PI3 kinase and Erk MAP kinase pathways in HASM cells. Both classical and IL6 trans-signaling in HASM involves activation of Stat3. However, the kinetics of Stat3 phosphorylation by IL6 trans-signaling was different than classical IL6 signaling. This was further reflected in differential gene expression profile by IL6 trans-signaling in HASM cells. Under IL6 trans-signaling conditions 36 genes were up-regulated, including PLA2G2A, IL13RA1, MUC1, and SOD2. Four genes, including CCL11, were down-regulated ≥ 2-fold. The expression of 112 genes was divergent between IL6 classical and trans-signaling, including the genes HILPDA, NNMT, DAB2, MUC1, WWC1, and VEGFA. Pathway analysis revealed that IL6 trans-signaling induced expression of genes involved in regulation of airway remodeling, immune response, hypoxia, and glucose metabolism. Treatment of HASM cells with IL6+sIL6R induced proliferation in a dose dependent fashion, suggesting a role for IL6 trans-signaling in asthma pathogenesis. These novel findings demonstrate differential effect of IL6 trans-signaling on airway cells and identify IL6 trans-signaling as a potential modifier of airway inflammation and remodeling.<br/>
+        </p><p>PMID: 26001777 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Robinson MB, Deshpande DA, Chou J, Cui W, Smith S, Langefeld C, Hastie AT, Bleecker ER, Hawkins GA</author>
+    <category>Am J Physiol Lung Cell Mol Physiol</category>
+    <guid isPermaLink="false">PubMed:26001777</guid>
+</item>
+<item>
+    <title>Clinical tumor sequencing: opportunities and challenges for precision cancer medicine.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25993170?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://meetinglibrary.asco.org/edbook/pubmed/25993170"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--file.asco.org-Ed_Book-EdBk2013_bevel-linkout-120x30.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25993170">Related Articles</a></td></tr></table>
+        <p><b>Clinical tumor sequencing: opportunities and challenges for precision cancer medicine.</b></p>          
+        <p>Am Soc Clin Oncol Educ Book. 2015;35:e175-82</p>
+        <p>Authors:  Damodaran S, Berger MF, Roychowdhury S</p>
+        <p>Abstract<br/>
+        Advances in tumor genome sequencing have enabled discovery of actionable alterations leading to novel therapies. Currently, there are approved targeted therapies across various tumors that can be matched to genomic alterations, such as point mutations, gene amplification, and translocations. Tools to detect these genomic alterations have emerged as a result of decreasing costs and improved throughput enabled by next-generation sequencing (NGS) technologies. NGS has been successfully utilized for developing biomarkers to assess susceptibility, diagnosis, prognosis, and treatment of cancers. However, clinical application presents some potential challenges in terms of tumor specimen acquisition, analysis, privacy, interpretation, and drug development in rare cancer subsets. Although whole-genome sequencing offers the most complete strategy for tumor analysis, its present utility in clinical care is limited. Consequently, targeted gene capture panels are more commonly employed by academic institutions and commercial vendors for clinical grade cancer genomic testing to assess molecular eligibility for matching therapies, whereas whole-exome and transcriptome (RNASeq) sequencing are being utilized for discovery research. This review discusses the strategies, clinical challenges, and opportunities associated with the application of cancer genomic testing for precision cancer medicine. <br/>
+        </p><p>PMID: 25993170 [PubMed - in process]</p>
+    ]]></description>
+    <author> Damodaran S, Berger MF, Roychowdhury S</author>
+    <category>Am Soc Clin Oncol Educ Book</category>
+    <guid isPermaLink="false">PubMed:25993170</guid>
+</item>
+<item>
+    <title>Glyphosate's impact on vegetative growth in leafy spurge identifies molecular processes and hormone cross-talk associated with increased branching.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25986459?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.biomedcentral.com/1471-2164/16/395"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.biomedcentral.com-graphics-pubmed-BioMedCentral_free_1.png" border="0"/></a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25986459/"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25986459">Related Articles</a></td></tr></table>
+        <p><b>Glyphosate's impact on vegetative growth in leafy spurge identifies molecular processes and hormone cross-talk associated with increased branching.</b></p>          
+        <p>BMC Genomics. 2015;16(1):395</p>
+        <p>Authors:  Doğramacı M, Foley ME, Horvath DP, Hernandez AG, Khetani RS, Fields CJ, Keating KM, Mikel MA, Anderson JV</p>
+        <p>Abstract<br/>
+        BACKGROUND: Leafy spurge (Euphorbia esula) is a perennial weed that is considered glyphosate tolerant, which is partially attributed to escape through establishment of new vegetative shoots from an abundance of underground adventitious buds. Leafy spurge plants treated with sub-lethal concentrations of foliar-applied glyphosate produce new vegetative shoots with reduced main stem elongation and increased branching. Processes associated with the glyphosate-induced phenotype were determined by RNAseq using aerial shoots derived from crown buds of glyphosate-treated and -untreated plants. Comparison between transcript abundance and accumulation of shikimate or phytohormones (abscisic acid, auxin, cytokinins, and gibberellins) from these same samples was also done to reveal correlations.<br/>
+        RESULTS: Transcriptome assembly and analyses confirmed differential abundance among 12,918 transcripts (FDR ≤ 0.05) and highlighted numerous processes associated with shoot apical meristem maintenance and stem growth, which is consistent with the increased number of actively growing meristems in response to glyphosate. Foliar applied glyphosate increased shikimate abundance in crown buds prior to decapitation of aboveground shoots, which induces growth from these buds, indicating that 5-enolpyruvylshikimate 3-phosphate (EPSPS) the target site of glyphosate was inhibited. However, abundance of shikimate was similar in a subsequent generation of aerial shoots derived from crown buds of treated and untreated plants, suggesting EPSPS is no longer inhibited or abundance of shikimate initially observed in crown buds dissipated over time. Overall, auxins, gibberellins (precursors and catabolites of bioactive gibberellins), and cytokinins (precursors and bioactive cytokinins) were more abundant in the aboveground shoots derived from glyphosate-treated plants.<br/>
+        CONCLUSION: Based on the overall data, we propose that the glyphosate-induced phenotype resulted from complex interactions involving shoot apical meristem maintenance, hormone biosynthesis and signaling (auxin, cytokinins, gibberellins, and strigolactones), cellular transport, and detoxification mechanisms.<br/>
+        </p><p>PMID: 25986459 [PubMed - in process]</p>
+    ]]></description>
+    <author> Doğramacı M, Foley ME, Horvath DP, Hernandez AG, Khetani RS, Fields CJ, Keating KM, Mikel MA, Anderson JV</author>
+    <category>BMC Genomics</category>
+    <guid isPermaLink="false">PubMed:25986459</guid>
+</item>
+<item>
+    <title>Profiling age-related epigenetic markers of stomach adenocarcinoma in young and old subjects.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25983541?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25983541/"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25983541">Related Articles</a></td></tr></table>
+        <p><b>Profiling age-related epigenetic markers of stomach adenocarcinoma in young and old subjects.</b></p>          
+        <p>Cancer Inform. 2015;14:47-54</p>
+        <p>Authors:  Kim BC, Jeong HO, Park D, Kim CH, Lee EK, Kim DH, Im E, Kim ND, Lee S, Yu BP, Bhak J, Chung HY</p>
+        <p>Abstract<br/>
+        The purpose of our study is to identify epigenetic markers that are differently expressed in the stomach adenocarcinoma (STAD) condition. Based on data from The Cancer Genome Atlas (TCGA), we were able to detect an age-related difference in methylation patterns and changes in gene and miRNA expression levels in young (n = 14) and old (n = 70) STAD subjects. Our analysis identified 323 upregulated and 653 downregulated genes in old STAD subjects. We also found 76 miRNAs with age-related expression patterns and 113 differentially methylated genes (DMGs), respectively. Our further analysis revealed that significant upregulated genes (n = 35) were assigned to the cell cycle, while the muscle system process (n = 27) and cell adhesion-related genes (n = 57) were downregulated. In addition, by comparing gene and miRNA expression with methylation change, we identified that three upregulated genes (ELF3, IL1β, and MMP13) known to be involved in inflammatory responses and cell growth were significantly hypomethylated in the promoter region. We further detected target candidates for age-related, downregulated miRNAs (hsa-mir-124-3, hsa-mir-204, and hsa-mir-125b-2) in old STAD subjects. This is the first report of the results from a study exploring age-related epigenetic biomarkers of STAD using high-throughput data and provides evidence for a complex clinicopathological condition expressed by the age-related STAD progression. <br/>
+        </p><p>PMID: 25983541 [PubMed]</p>
+    ]]></description>
+    <author> Kim BC, Jeong HO, Park D, Kim CH, Lee EK, Kim DH, Im E, Kim ND, Lee S, Yu BP, Bhak J, Chung HY</author>
+    <category>Cancer Inform</category>
+    <guid isPermaLink="false">PubMed:25983541</guid>
+</item>
+<item>
+    <title>Methods for RNA profiling of gravi-responding plant tissues.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25981771?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://dx.doi.org/10.1007/978-1-4939-2697-8_9"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--production.springer.de-OnlineResources-Logos-springerlink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25981771">Related Articles</a></td></tr></table>
+        <p><b>Methods for RNA profiling of gravi-responding plant tissues.</b></p>          
+        <p>Methods Mol Biol. 2015;1309:91-117</p>
+        <p>Authors:  Dalal J, Land E, Vasani N, He L, Smith C, Rodriguez-Welsh M, Perera IY, Sederoff H</p>
+        <p>Abstract<br/>
+        Plant transcriptional responses to gravity stimulation by reorientation are among the fastest measured in any tissue or species. Upon reorientation, changes in abundance of specific mRNAs can be measured within seconds or minutes, for plastid or nuclear encoded genes, respectively. Identifying fast gravity-induced transcripts has been made possible by the development of high-throughput technology for qualitative and quantitative RNA analysis. RNA profiling has undergone further rapid development due to its enormous potential in basic sciences and medical applications. We describe here the current and most widely used methods to profile the changes in an entire transcriptome by high-throughput sequencing of RNA fractions (RNAseq) and single gene transcript analysis using real-time quantitative reverse-transcriptase polymerase chain reaction (qRT-PCR). <br/>
+        </p><p>PMID: 25981771 [PubMed - in process]</p>
+    ]]></description>
+    <author> Dalal J, Land E, Vasani N, He L, Smith C, Rodriguez-Welsh M, Perera IY, Sederoff H</author>
+    <category>Methods Mol Biol</category>
+    <guid isPermaLink="false">PubMed:25981771</guid>
+</item>
+<item>
+    <title>ROS1 amplification mediates resistance to gefitinib in glioblastoma cells.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25978031?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.impactjournals.com/oncotarget/misc/linkedout.php?pii=3981"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.impactjournals.com-oncotarget-images-misc-linkout.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25978031">Related Articles</a></td></tr></table>
+        <p><b>ROS1 amplification mediates resistance to gefitinib in glioblastoma cells.</b></p>          
+        <p>Oncotarget. 2015 May 4;</p>
+        <p>Authors:  Aljohani H, Koncar RF, Zarzour A, Park BS, Lee SH, Bahassi EM</p>
+        <p>Abstract<br/>
+        Glioblastoma (GBM) is the most aggressive brain tumor in adults and remains incurable despite multimodal intensive treatment regimens. The majority of GBM tumors show a mutated or overexpressed EGFR, however, tumors treated with tyrosine kinase inhibitors (TKIs) will inevitably recur highlighting the need to identify signalling pathways involved in GBM resistance to these drugs. To this end, we treated GBM cells that overexpress EGFR with increasing concentrations of gefitinib and isolated resistant clones. These resistant clones were subject to RNAseq and the expression of several genes was found to be upregulated. These genes are mainly tyrosine kinase receptors and include ROS1, DDR1 and PDGFRA and are known to control several downstream targets of EGFR. The upregulation of ROS1 and DDR1 was confirmed at the protein level by western blot. Treatment with a potent and highly specific pyrazole ROS1 inhibitor in ROS1 overexpressing clones led to a sensitization of these cells to low concentrations of gefitinib. Combined treatment with gefitinib and ROS1 inhibitor induces massive cell death by apoptosis following a prolonged S phase cell cycle arrest. Our current study led to the discovery of alternative pathways used by GBM cells to evade cell death following treatment with gefitinib and identifies new therapeutic targets to prevent GBM cell resistance to the drug.<br/>
+        </p><p>PMID: 25978031 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Aljohani H, Koncar RF, Zarzour A, Park BS, Lee SH, Bahassi EM</author>
+    <category>Oncotarget</category>
+    <guid isPermaLink="false">PubMed:25978031</guid>
+</item>
+<item>
+    <title>Evaluation of unbiased RNAseq as a diagnostic method in influenza virus positive respiratory samples.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25972420?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25972420">Related Articles</a></td></tr></table>
+        <p><b>Evaluation of unbiased RNAseq as a diagnostic method in influenza virus positive respiratory samples.</b></p>          
+        <p>J Clin Microbiol. 2015 May 13;</p>
+        <p>Authors:  Fischer N, Indenbirken D, Meyer T, Lütgehetmann M, Lellek H, Spohn M, Aepfelbacher M, Alawi M, Grundhoff A</p>
+        <p>Abstract<br/>
+        Unbiased, non-targeted metagenomic RNA sequencing (UMERS) has the advantage to detect known as well as unknown pathogens and thus can significantly improve the detection of viral, bacterial, parasitic and fungal sequences in public health settings. In particular, in only 30-40% of respiratory specimen from patients with acute respiratory illness conventional diagnostic methods successfully identify the putative pathogenic agent. We here apply UMERS to 24 diagnostic respiratory specimens (bronchoalveolar lavage (BAL), sputum and swab) from patients with seasonal influenza infection and 5 BAL samples from patients with pneumonia tested negative for influenza to validate RNA sequencing as an unbiased, diagnostic tool in comparison to conventional diagnostic methods. In addition to our comparison to PCR we evaluate i) the potential to retrieve comprehensive influenza virus genomic information and ii) capability to detect known superinfecting pathogens. When compared to quantitative RT-PCR for influenza virus sequences, UMERS detected influenza viral sequences in 18/24 samples. Complete influenza virus genomes could be assembled from 8 samples. Furthermore, in 3/24 influenza positive samples additional viral pathogens could be detected and 2/24 samples showed significantly increased abundance of individual bacterial species known to cause superinfections during influenza virus infection. Thus, analysis of respiratory samples from known or suspected influenza patients by UMERS provides valuable information that is relevant for clinical investigation.<br/>
+        </p><p>PMID: 25972420 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Fischer N, Indenbirken D, Meyer T, Lütgehetmann M, Lellek H, Spohn M, Aepfelbacher M, Alawi M, Grundhoff A</author>
+    <category>J Clin Microbiol</category>
+    <guid isPermaLink="false">PubMed:25972420</guid>
+</item>
+<item>
+    <title>Urothelial cancer gene regulatory networks inferred from large-scale RNAseq, Bead and Oligo gene expression data.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25971253?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.biomedcentral.com/1752-0509/9/21"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.biomedcentral.com-graphics-pubmed-BioMedCentral_free_1.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25971253">Related Articles</a></td></tr></table>
+        <p><b>Urothelial cancer gene regulatory networks inferred from large-scale RNAseq, Bead and Oligo gene expression data.</b></p>          
+        <p>BMC Syst Biol. 2015 May 14;9(1):21</p>
+        <p>Authors:  Matos Simoes R, Dalleau S, Williamson KE, Emmert-Streib F</p>
+        <p>Abstract<br/>
+        BACKGROUND: Urothelial pathogenesis is a complex process driven by an underlying network of interconnected genes. The identification of novel genomic target regions and gene targets that drive urothelial carcinogenesis is crucial in order to improve our current limited understanding of urothelial cancer (UC) on the molecular level. The inference of genome-wide gene regulatory networks (GRN) from large-scale gene expression data provides a promising approach for a detailed investigation of the underlying network structure associated to urothelial carcinogenesis.<br/>
+        METHODS: In our study we inferred and compared three GRNs by the application of the BC3Net inference algorithm to large-scale transitional cell carcinoma gene expression data sets from Illumina RNAseq (179 samples), Illumina Bead arrays (165 samples) and Affymetrix Oligo microarrays (188 samples). We investigated the structural and functional properties of GRNs for the identification of molecular targets associated to urothelial cancer.<br/>
+        RESULTS: We found that the urothelial cancer (UC) GRNs show a significant enrichment of subnetworks that are associated with known cancer hallmarks including cell cycle, immune response, signaling, differentiation and translation. Interestingly, the most prominent subnetworks of co-located genes were found on chromosome regions 5q31.3 (RNAseq), 8q24.3 (Oligo) and 1q23.3 (Bead), which all represent known genomic regions frequently deregulated or aberated in urothelial cancer and other cancer types. Furthermore, the identified hub genes of the individual GRNs, e.g., HID1/DMC1 (tumor development), RNF17/TDRD4 (cancer antigen) and CYP4A11 (angiogenesis/ metastasis) are known cancer associated markers. The GRNs were highly dataset specific on the interaction level between individual genes, but showed large similarities on the biological function level represented by subnetworks. Remarkably, the RNAseq UC GRN showed twice the proportion of significant functional subnetworks. Based on our analysis of inferential and experimental networks the Bead UC GRN showed the lowest performance compared to the RNAseq and Oligo UC GRNs.<br/>
+        CONCLUSION: To our knowledge, this is the first study investigating genome-scale UC GRNs. RNAseq based gene expression data is the data platform of choice for a GRN inference. Our study offers new avenues for the identification of novel putative diagnostic targets for subsequent studies in bladder tumors.<br/>
+        </p><p>PMID: 25971253 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Matos Simoes R, Dalleau S, Williamson KE, Emmert-Streib F</author>
+    <category>BMC Syst Biol</category>
+    <guid isPermaLink="false">PubMed:25971253</guid>
+</item>
+<item>
+    <title>Integrated analysis of whole-exome sequencing and transcriptome profiling in males with autism spectrum disorders.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25969726?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.molecularautism.com/content/6//21"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.biomedcentral.com-graphics-pubmed-BioMedCentral_free_1.png" border="0"/></a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25969726/"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25969726">Related Articles</a></td></tr></table>
+        <p><b>Integrated analysis of whole-exome sequencing and transcriptome profiling in males with autism spectrum disorders.</b></p>          
+        <p>Mol Autism. 2015;6:21</p>
+        <p>Authors:  Codina-Solà M, Rodríguez-Santiago B, Homs A, Santoyo J, Rigau M, Aznar-Laín G, Del Campo M, Gener B, Gabau E, Botella MP, Gutiérrez-Arumí A, Antiñolo G, Pérez-Jurado LA, Cuscó I</p>
+        <p>Abstract<br/>
+        BACKGROUND: Autism spectrum disorders (ASD) are a group of neurodevelopmental disorders with high heritability. Recent findings support a highly heterogeneous and complex genetic etiology including rare de novo and inherited mutations or chromosomal rearrangements as well as double or multiple hits.<br/>
+        METHODS: We performed whole-exome sequencing (WES) and blood cell transcriptome by RNAseq in a subset of male patients with idiopathic ASD (n = 36) in order to identify causative genes, transcriptomic alterations, and susceptibility variants.<br/>
+        RESULTS: We detected likely monogenic causes in seven cases: five de novo (SCN2A, MED13L, KCNV1, CUL3, and PTEN) and two inherited X-linked variants (MAOA and CDKL5). Transcriptomic analyses allowed the identification of intronic causative mutations missed by the usual filtering of WES and revealed functional consequences of some rare mutations. These included aberrant transcripts (PTEN, POLR3C), deregulated expression in 1.7% of mutated genes (that is, SEMA6B, MECP2, ANK3, CREBBP), allele-specific expression (FUS, MTOR, TAF1C), and non-sense-mediated decay (RIT1, ALG9). The analysis of rare inherited variants showed enrichment in relevant pathways such as the PI3K-Akt signaling and the axon guidance.<br/>
+        CONCLUSIONS: Integrative analysis of WES and blood RNAseq data has proven to be an efficient strategy to identify likely monogenic forms of ASD (19% in our cohort), as well as additional rare inherited mutations that can contribute to ASD risk in a multifactorial manner. Blood transcriptomic data, besides validating 88% of expressed variants, allowed the identification of missed intronic mutations and revealed functional correlations of genetic variants, including changes in splicing, expression levels, and allelic expression.<br/>
+        </p><p>PMID: 25969726 [PubMed]</p>
+    ]]></description>
+    <author> Codina-Solà M, Rodríguez-Santiago B, Homs A, Santoyo J, Rigau M, Aznar-Laín G, Del Campo M, Gener B, Gabau E, Botella MP, Gutiérrez-Arumí A, Antiñolo G, Pérez-Jurado LA, Cuscó I</author>
+    <category>Mol Autism</category>
+    <guid isPermaLink="false">PubMed:25969726</guid>
+</item>
+<item>
+    <title>Isoform-level brain expression profiling of the spermidine/spermine N1-Acetyltransferase1 (SAT1) gene in major depression and suicide.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25959060?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S0969-9961(15)00161-8"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25959060">Related Articles</a></td></tr></table>
+        <p><b>Isoform-level brain expression profiling of the spermidine/spermine N1-Acetyltransferase1 (SAT1) gene in major depression and suicide.</b></p>          
+        <p>Neurobiol Dis. 2015 May 8;79:123-134</p>
+        <p>Authors:  Pantazatos SP, Andrews SJ, Dunning-Broadbent J, Pang J, Huang YY, Arango V, Nagy PL, John Mann J</p>
+        <p>Abstract<br/>
+        Low brain expression of the spermidine/spermine N-1 acetyltransferase (SAT1) gene, the rate-limiting enzyme involved in catabolism of polyamines that mediate the polyamine stress response (PSR), has been reported in depressed suicides. However, it is unknown whether this effect is associated with depression or with suicide and whether all or only specific isoforms expressed by SAT1, such as the primary 171 amino acid protein-encoding transcript (SSAT), or an alternative splice variant (SSATX) that is involved in SAT1 regulated unproductive splicing and transcription (RUST), are involved. We applied next generation sequencing (RNA-seq) to assess gene-level, isoform-level, and exon-level SAT1 expression differences between healthy controls (HC, N=29), DSM-IV major depressive disorder suicides (MDD-S, N=21) and MDD non-suicides (MDD, N=9) in the dorsal lateral prefrontal cortex (Brodmann Area 9, BA9) of medication-free individuals postmortem. Using small RNA-seq, we also examined miRNA species putatively involved in SAT1 post-transcriptional regulation. A DSM-IV diagnosis was made by structured interview. Toxicology and history ruled out recent psychotropic medication. At the gene-level, we found low SAT1 expression in both MDD-S (vs. HC, p=0.002) and MDD (vs. HC, p=0.002). At the isoform-level, reductions in MDD-S (vs. HC) were most pronounced in four transcripts including SSAT and SSATX, while reductions in MDD (vs. HC) were pronounced in three transcripts, one of which was reduced in MDD relative to MDD-S (all p&lt;0.1 FDR corrected). We did not observe evidence for differential exon-usage (i.e. splicing) nor differences in miRNA expression. Results replicate the finding of low SAT1 brain expression in depressed suicides in an independent sample and implicate low SAT1 brain expression in MDD independent of suicide. Low expressions of both SSAT and SATX isoforms suggest that shared transcriptional mechanisms involved in RUST may account for low SAT1 brain expression in depressed suicides. Future studies are required to understand the functions and regulation of SAT1 isoforms, and how they relate to the pathogenesis of MDD and suicide.<br/>
+        </p><p>PMID: 25959060 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Pantazatos SP, Andrews SJ, Dunning-Broadbent J, Pang J, Huang YY, Arango V, Nagy PL, John Mann J</author>
+    <category>Neurobiol Dis</category>
+    <guid isPermaLink="false">PubMed:25959060</guid>
+</item>
+<item>
+    <title>RNA-Seq Quantification of Hepatic Drug Processing Genes in Germ-Free mice.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25956306?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25956306">Related Articles</a></td></tr></table>
+        <p><b>RNA-Seq Quantification of Hepatic Drug Processing Genes in Germ-Free mice.</b></p>          
+        <p>Drug Metab Dispos. 2015 May 8;</p>
+        <p>Authors:  Selwyn FP, Cui JY, Klaassen CD</p>
+        <p>Abstract<br/>
+        Intestinal bacteria have been shown to be important in regulating host intermediary metabolism and contribute to obesity. However, relatively less in known about the effect of intestinal bacteria on the expression of hepatic drug processing genes of the host. The purpose of this study was to characterize the expression of hepatic drug processing genes (DPGs) in germ-free (GF) mice using RNAseq. Total RNA was isolated from the livers of adult male conventional (CV) and GF C57BL/6J mice (n=3 per group). In livers of GF mice, the mRNA of the AhR target gene Cyp1a2 was increased 51%, and the mRNA of PPARα-target gene Cyp4a14 was increased 202%; conversely, the mRNA of the CAR target gene Cyp2b10 was decreased 57%, and the mRNA of the PXR target gene Cyp3a11 was decreased 87% in GF mice. Although other non-Cyp phase-1 enzymes in livers of GF mice are only moderately affected, there was a marked down-regulation in the phase-II enzymes glutathione S-transferases p1 and p2, as well as a marked up-regulation in the major bile acid transporters (Ntcp and Oatp1b2) and cholesterol transporters (Abcg5 and Abcg8). In summary, this study demonstrates that intestinal bacteria regulate the expression of a large number of DPGs, and suggests that intestinal bacteria are responsible for some individual differences in drug responses.<br/>
+        </p><p>PMID: 25956306 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Selwyn FP, Cui JY, Klaassen CD</author>
+    <category>Drug Metab Dispos</category>
+    <guid isPermaLink="false">PubMed:25956306</guid>
+</item>
+<item>
+    <title>Spatial patterns in markers of contaminant exposure, glucose and glycogen metabolism, and immunological response in juvenile winter flounder (Pseudoplueronectes americanus).</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25946204?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S1744-117X(15)00007-6"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25946204">Related Articles</a></td></tr></table>
+        <p><b>Spatial patterns in markers of contaminant exposure, glucose and glycogen metabolism, and immunological response in juvenile winter flounder (Pseudoplueronectes americanus).</b></p>          
+        <p>Comp Biochem Physiol Part D Genomics Proteomics. 2015 Jun;14:53-65</p>
+        <p>Authors:  McElroy AE, Hice LA, Frisk MG, Purcell SL, Phillips NC, Fast MD</p>
+        <p>Abstract<br/>
+        Inshore winter flounder (Pseudoplueronectes americanus) populations in NY, USA have reached record low numbers in recent years, and recruitment into the fishery appears to be limited by survival of post-settlement juvenile fish. In order to identify cellular pathways associated with site-specific variation in condition and mortality, we examined differential mRNA expression in juvenile winter flounder collected from six different bays across a gradient in human population density and sewage inputs. Illumina sequencing of pooled samples of flounder from contrasting degraded sites and less impacted sites was used to guide our choice of targets for qPCR analysis. 253 transcripts of &gt;100bp were differentially expressed, with 60% showing strong homology to mostly teleost sequences within the NCBI database. Based on these data, transcripts representing nine genes of interest associated with contaminant exposure, immune response and glucose and glycogen metabolism were examined by qPCR in individual flounder from each site. Statistically significant site-specific differences were observed in expression of all but one gene, although patterns in expression were complex with only one (vitellogenin), demonstrating a west to east gradient consistent with known loadings of municipal sewage effluent. Principal components analysis (PCA) identified relationships among the genes evaluated. Our data indicate that juvenile winter flounder are responding to estrogenic chemicals in more urbanized coastal bays, and suggests potential mechanistic links between immune response, contaminant exposure and energy metabolism. <br/>
+        </p><p>PMID: 25946204 [PubMed - in process]</p>
+    ]]></description>
+    <author> McElroy AE, Hice LA, Frisk MG, Purcell SL, Phillips NC, Fast MD</author>
+    <category>Comp Biochem Physiol Part D Genomics Proteomics</category>
+    <guid isPermaLink="false">PubMed:25946204</guid>
+</item>
+
+</channel>
+</rss>

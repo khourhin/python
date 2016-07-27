@@ -1,0 +1,6 @@
+EXPRESS	EXPR_FRAG_LEN_MEAN	-m	number:200:0::1	Fragment length mean
+EXPRESS	EXPR_FRAG_LEN_SD	-s	number:60:0::1	Fragment length standard deviation
+EXPRESS	EXPR_STRD	--fr-stranded	radio::--fr-stranded:--rf-stranded:--f-stranded:--r-stranded	Strand orientation
+EXPRESS	EXPR_LIB_SIZE	--library-size	number::0::1	Library size
+EXPRESS	EXPR_MAX_INDEL	--max-indel-size	number:10:0::1	Max indel size
+EXPRESS	EXPR_CALC_COV	--calc-covar	bool	Calculates covariance

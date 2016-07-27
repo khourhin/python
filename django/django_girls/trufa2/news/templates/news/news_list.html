@@ -1,0 +1,14 @@
+{% extends 'news/base.html' %}
+
+{% block content %}
+{% for new in news %}
+<div class="news">
+  <h2><a href="{% url 'news_detail' pk=new.pk %}">{{ new.title }}</a></h2>
+  <p>{{ new.text }}</p>
+  <p>By {{ new.author }}</p>
+  <div class="date">
+  <p>Date: {{ new.date }}</p>
+  </div>
+</div>
+{% endfor %}
+{% endblock %}

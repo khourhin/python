@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>List</h1>
+
+<div class="row">
+   {% for post in post_list %}
+  <div class="col-sm-6">
+    <div class="thumbnail">
+      {% if post.image %}
+      <img src="{{ post.image.url }}" class="img-responsive">
+        {% endif %}
+      <div class="caption">
+        <h3><a href='{{ post.get_absolute_url }}'>{{ post.title }}</a>
+          <small>{{ post.timestamp }}</small>
+        </h3>
+        <p>{{ post.content|linebreaks|truncatechars:120 }}</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a>
+          <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+
+<!-- To have several colums (django trick) -->
+{% cycle "" "</div><div class='row'>" %}
+
+{% endfor %}
+</div>
+{% endblock content %}

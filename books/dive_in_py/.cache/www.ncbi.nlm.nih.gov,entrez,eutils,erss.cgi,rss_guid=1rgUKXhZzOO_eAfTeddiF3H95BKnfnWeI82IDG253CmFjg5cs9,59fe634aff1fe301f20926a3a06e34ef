@@ -1,0 +1,193 @@
+status: 200
+content-location: http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1rgUKXhZzOO_eAfTeddiF3H95BKnfnWeI82IDG253CmFjg5cs9
+-content-encoding: gzip
+content-type: application/rss+xml; charset=utf-8
+server: Apache
+content-length: 27815
+x-ua-compatible: IE=Edge
+vary: Accept-Encoding
+date: Tue, 26 May 2015 10:28:07 GMT
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>pubmed: rna-seq</title>
+	<link>http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=PubMed&amp;term=RNA-seq</link>
+	<description>NCBI: db=pubmed; Term=RNA-seq</description>
+	<language>en-us</language>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<ttl>1440</ttl>
+	<image>
+		<title>NCBI pubmed</title>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query/static/gifs/iconsml.gif</url>
+		<link>http://www.ncbi.nlm.nih.gov/sites/entrez</link>
+		<description>PubMed comprises more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.</description>
+	</image>
+<item>
+    <title>Diffusion maps for high-dimensional single-cell analysis of differentiation data.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26002886?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26002886">Related Articles</a></td></tr></table>
+        <p><b>Diffusion maps for high-dimensional single-cell analysis of differentiation data.</b></p>          
+        <p>Bioinformatics. 2015 May 21;</p>
+        <p>Authors:  Haghverdi L, Buettner F, Theis FJ</p>
+        <p>Abstract<br/>
+        MOTIVATION: Single-cell technologies have recently gained popularity in cellular differentiation studies regarding their ability to resolve potential heterogeneities in cell populations. Analysing such high-dimensional single-cell data has its own statistical and computational challenges. Popular multivariate approaches are based on data normalisation, followed by dimension reduction and clustering to identify subgroups. However, in the case of cellular differentiation, we would not expect clear clusters to be present but instead expect the cells to follow continuous branching lineages.<br/>
+        RESULTS: Here we propose the use of diffusion maps to deal with the problem of defining differentiation trajectories. We adapt this method to single-cell data by adequate choice of kernel width and inclusion of uncertainties or missing measurement values, which enables the establishment of a pseudo-temporal ordering of single cells in a high-dimensional gene expression space. We expect this output to reflect cell differentiation trajectories, where the data originates from intrinsic diffusion-like dynamics. Starting from a pluripotent stage, cells move smoothly within the transcriptional landscape towards more differentiated states with some stochasticity along their path. We demonstrate the robustness of our method with respect to extrinsic noise (e.g. measurement noise) and sampling density heterogeneities on simulated toy data as well as two single-cell quantitative polymerase chain reaction (qPCR) data sets (i.e. mouse haematopoietic stem cells and mouse embryonic stem cells) and an RNA-Seq data of human pre-implantation embryos. We show that diffusion maps perform considerably better than Principal Component Analysis (PCA) and are advantageous over other techniques for non-linear dimension reduction such as t-distributed Stochastic Neighbour Embedding (t-SNE) for preserving the global structures and pseudotemporal ordering of cells.<br/>
+        AVAILABILITY: The Matlab implementation of diffusion maps for single-cell data is available at https://www.helmholtz-muenchen.de/icb/single-cell-diffusion-map.<br/>
+        CONTACT: fbuettner.phys@gmail.com, fabian.theis@helmholtz-muenchen.de.<br/>
+        </p><p>PMID: 26002886 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Haghverdi L, Buettner F, Theis FJ</author>
+    <category>Bioinformatics</category>
+    <guid isPermaLink="false">PubMed:26002886</guid>
+</item>
+<item>
+    <title>Molecular Evidence for Convergence and Parallelism in Evolution of Complex Brains of Cephalopod Molluscs: Insights from Visual Systems.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26002349?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26002349">Related Articles</a></td></tr></table>
+        <p><b>Molecular Evidence for Convergence and Parallelism in Evolution of Complex Brains of Cephalopod Molluscs: Insights from Visual Systems.</b></p>          
+        <p>Integr Comp Biol. 2015 May 21;</p>
+        <p>Authors:  Yoshida MA, Ogura A, Ikeo K, Shigeno S, Moritaki T, Winters GC, Kohn AB, Moroz LL</p>
+        <p>Abstract<br/>
+        Coleoid cephalopods show remarkable evolutionary convergence with vertebrates in their neural organization, including (1) eyes and visual system with optic lobes, (2) specialized parts of the brain controlling learning and memory, such as vertical lobes, and (3) unique vasculature supporting such complexity of the central nervous system. We performed deep sequencing of eye transcriptomes of pygmy squids (Idiosepius paradoxus) and chambered nautiluses (Nautilus pompilius) to decipher the molecular basis of convergent evolution in cephalopods. RNA-seq was complemented by in situ hybridization to localize the expression of selected genes. We found three types of genomic innovations in the evolution of complex brains: (1) recruitment of novel genes into morphogenetic pathways, (2) recombination of various coding and regulatory regions of different genes, often called "evolutionary tinkering" or "co-option", and (3) duplication and divergence of genes. Massive recruitment of novel genes occurred in the evolution of the "camera" eye from nautilus' "pinhole" eye. We also showed that the type-2 co-option of transcription factors played important roles in the evolution of the lens and visual neurons. In summary, the cephalopod convergent morphological evolution of the camera eyes was driven by a mosaic of all types of gene recruitments. In addition, our analysis revealed unexpected variations of squids' opsins, retinochromes, and arrestins, providing more detailed information, valuable for further research on intra-ocular and extra-ocular photoreception of the cephalopods.<br/>
+        </p><p>PMID: 26002349 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Yoshida MA, Ogura A, Ikeo K, Shigeno S, Moritaki T, Winters GC, Kohn AB, Moroz LL</author>
+    <category>Integr Comp Biol</category>
+    <guid isPermaLink="false">PubMed:26002349</guid>
+</item>
+<item>
+    <title>Slit2 modifies VEGF-induced angiogenic responses in rabbit skeletal muscle via reduced eNOS activity.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26002231?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26002231">Related Articles</a></td></tr></table>
+        <p><b>Slit2 modifies VEGF-induced angiogenic responses in rabbit skeletal muscle via reduced eNOS activity.</b></p>          
+        <p>Cardiovasc Res. 2015 May 22;</p>
+        <p>Authors:  Nieminen T, Toivanen PI, Laakkonen JP, Heikura T, Kaikkonen MU, Airenne KJ, Ylä-Herttuala S</p>
+        <p>Abstract<br/>
+        AIMS: Slit2 is a possible modulator of vascular endothelial growth factor (VEGF) - induced angiogenesis, but its effects have not been tested in large animal models. We studied the effect of Slit2 on therapeutic angiogenesis induced by VEGF receptor 2 (VEGFR2) ligands Vammin and VEGF-D(ΔNΔC) in vivo in rabbit skeletal muscles. The Slit2 target genes were also studied by RNA sequencing (RNA-Seq) in endothelial cells.<br/>
+        METHODS AND RESULTS: Adenoviral intramuscular gene transfers were performed into New Zealand White rabbit hindlimbs. Confocal and multiphoton microscopy were used for blood vessel imaging. Signaling experiments and gene expression analyses were performed to study mechanisms of Slit2 action. Slit2 decreased VEGFR2-mediated vascular permeability. Slit2 also reduced VEGFR2-mediated increase in blood perfusion and capillary enlargement, whereas sprouting of the capillaries was increased. Slit2 gene transfer alone did not have any effects on vascular functions or morphology. VEGFR2 activation was not affected by Slit2, but eNOS phosphorylation was diminished. The transcriptome profiling showed Slit2 downregulating angiogenesis-related genes such as Nuclear receptor subfamily 4 group A member 1 (NR4A1) and Stanniocalcin-1 (STC-1) as well as genes related to endothelial cell migration and vascular permeability.<br/>
+        CONCLUSIONS: Combining Slit2 with VEGFs adjusts VEGFR2-mediated angiogenic effects into a more physiological direction. This possibly allows the use of higher VEGF vector doses to achieve a more widespread vector and VEGF distribution in the target tissues leading to a better therapeutic outcome while reducing excess vascular permeability.<br/>
+        </p><p>PMID: 26002231 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Nieminen T, Toivanen PI, Laakkonen JP, Heikura T, Kaikkonen MU, Airenne KJ, Ylä-Herttuala S</author>
+    <category>Cardiovasc Res</category>
+    <guid isPermaLink="false">PubMed:26002231</guid>
+</item>
+<item>
+    <title>Transcriptomic changes in zebrafish embryos and larvae following benzo[a]pyrene exposure.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26001963?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26001963">Related Articles</a></td></tr></table>
+        <p><b>Transcriptomic changes in zebrafish embryos and larvae following benzo[a]pyrene exposure.</b></p>          
+        <p>Toxicol Sci. 2015 May 21;</p>
+        <p>Authors:  Fang X, Corrales J, Thornton C, Clerk T, Scheffler BE, Willett KL</p>
+        <p>Abstract<br/>
+        Benzo[a]pyrene (BaP) is an environmentally relevant carcinogenic and endocrine disrupting compound that causes immediate, long-term, and multigenerational health deficits in mammals and fish. Previously, we found that BaP alters DNA methylation patterns in developing zebrafish, which may affect gene expression. Herein, we performed a genome-wide transcriptional analysis and discovered differential gene expression and splicing in developing zebrafish. Adult zebrafish were exposed to control or 42.0 ± 1.9 μg/L BaP for 7 days. Eggs were collected and raised in control conditions or continuously exposed to BaP until 3.3 and 96 hours post fertilization (hpf). RNA sequencing (RNA-Seq) was conducted on zebrafish embryos and larvae. Data were analyzed to identify differentially expressed (DE) genes (changed at the gene or transcript variant level) and genes with differential exon usage (DEU; changed at the exon level). At 3.3 hpf, BaP exposure resulted in 8 DE genes and 51 DEU genes. At 96 hpf, BaP exposure altered expression in 1153 DE genes and 159 DEU genes. Functional ontology analysis by Ingenuity Pathway Analysis revealed that many disease pathways, including organismal death, growth failure, abnormal morphology of embryonic tissue, congenital heart disease, and adverse neuritogenesis, were significantly enriched for the DE and DEU genes, providing novel insights on the mechanisms of action of BaP-induced developmental toxicities. Collectively, we discovered substantial transcriptomic changes at the gene, transcript variant, and exon levels in developing zebrafish after early life BaP waterborne exposure, and these changes may lead to long-term adverse physiological consequences.<br/>
+        </p><p>PMID: 26001963 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Fang X, Corrales J, Thornton C, Clerk T, Scheffler BE, Willett KL</author>
+    <category>Toxicol Sci</category>
+    <guid isPermaLink="false">PubMed:26001963</guid>
+</item>
+<item>
+    <title>High throughput profiling of the cotton bollworm Helicoverpa armigera immunotranscriptome during the fungal and bacterial infections.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26001831?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.biomedcentral.com/1471-2164/16/321"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.biomedcentral.com-graphics-pubmed-BioMedCentral_free_1.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26001831">Related Articles</a></td></tr></table>
+        <p><b>High throughput profiling of the cotton bollworm Helicoverpa armigera immunotranscriptome during the fungal and bacterial infections.</b></p>          
+        <p>BMC Genomics. 2015 Apr 18;16(1):321</p>
+        <p>Authors:  Xiong GH, Xing LS, Lin Z, Saha TT, Wang C, Jiang H, Zou Z</p>
+        <p>Abstract<br/>
+        BACKGROUND: Innate immunity is essential in defending against invading pathogens in invertebrates. The cotton bollworm, Helicoverpa armigera (Hübner) is one of the most destructive lepidopteran pests, which causes enormous economic losses in agricultural production worldwide. The components of the immune system are largely unknown in this insect. The application of entomopathogens is considered as an alternative to the chemical insecticides for its control. However, few studies have focused on the molecular mechanisms of host-pathogen interactions between pest insects and their pathogens. Here, we adopted a high throughput RNA-seq approach to determine the immunotranscriptome of H. armigera larvae and examined gene expression changes after pathogen infections. This study provided insights into the potential immunity-related genes and pathways in H. armigera larvae.<br/>
+        RESULTS: Here, we adopted a high throughput RNA-seq approach to determine the immunotranscriptome of H. armigera larvae injected with buffer, fungal pathogen Beauveria bassiana, or Gram-negative bacterium Enterobacter cloacae. Based on sequence similarity to those homologs known to participate in immune responses in other insects, we identified immunity-related genes encoding pattern recognition receptors, signal modulators, immune effectors, and nearly all members of the Toll, IMD and JAK/STAT pathways. The RNA-seq data indicated that some immunity-related genes were activated in fungus- and bacterium-challenged fat body while others were suppressed in B. bassiana challenged hemocytes, including the putative IMD and JAK-STAT pathway members. Bacterial infection elevated the expression of recognition and modulator genes in the fat body and signal pathway genes in hemocytes. Although fat body and hemocytes both are important organs involved in the immune response, our transcriptome analysis revealed that more immunity-related genes were induced in the fat body than that hemocytes. Furthermore, quantitative real-time PCR analysis confirmed that, consistent with the RNA-seq data, the transcript abundances of putative PGRP-SA1, Serpin1, Toll-14, and Spz2 genes were elevated in fat body upon B. bassiana infection, while the mRNA levels of defensin, moricin1, and gloverin1 were up-regulated in hemocytes CONCLUSIONS: In this study, a global survey of the host defense against fungal and bacterial infection was performed on the non-model lepidopteran pest species. The comprehensive sequence resource and expression profiles of the immunity-related genes in H. armigera are acquired. This study provided valuable information for future functional investigations as well as development of specific and effective agents to control this pest.<br/>
+        </p><p>PMID: 26001831 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Xiong GH, Xing LS, Lin Z, Saha TT, Wang C, Jiang H, Zou Z</author>
+    <category>BMC Genomics</category>
+    <guid isPermaLink="false">PubMed:26001831</guid>
+</item>
+<item>
+    <title>Spatio-temporal transcriptome analysis in the marine snail Tegula atra along central-northern Chile (28-31°S).</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26001513?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S1874-7787(15)00082-3"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26001513">Related Articles</a></td></tr></table>
+        <p><b>Spatio-temporal transcriptome analysis in the marine snail Tegula atra along central-northern Chile (28-31°S).</b></p>          
+        <p>Mar Genomics. 2015 May 19;</p>
+        <p>Authors:  Tapia FJ, Gallardo-Escárate C</p>
+        <p>Abstract<br/>
+        This study describes the results from transcriptomes sequenced by illumina technology from four populations in the marine snail Tegula atra along central-northern Chile (28-31°S) during summer and winter 2014. In silico differential expression of transcripts annotated to known proteins revealed several local patterns associated to the environmental thermal variability. Herein, northern populations evidenced lower number of genes highly regulated, while southern populations displayed opposite patterns. This relationship could suggest that northern snail populations are more adapted to high temperature variations, enabling specific genes (e.g. HSPs and antioxidant system) to maintain high transcriptional activity under controlled physiological conditions. This transcriptome response or "frontloading" strategy can significantly increase the speed of response to thermal stress, and also be a relevant molecular underpinning to explain the genomic diversity along the Chilean coast.<br/>
+        </p><p>PMID: 26001513 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Tapia FJ, Gallardo-Escárate C</author>
+    <category>Mar Genomics</category>
+    <guid isPermaLink="false">PubMed:26001513</guid>
+</item>
+<item>
+    <title>RNA-seq based whole transcriptome analysis of the cyclopoid copepod Paracyclopina nana focusing on xenobiotics metabolism.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26001055?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S1744-117X(15)00034-9"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26001055">Related Articles</a></td></tr></table>
+        <p><b>RNA-seq based whole transcriptome analysis of the cyclopoid copepod Paracyclopina nana focusing on xenobiotics metabolism.</b></p>          
+        <p>Comp Biochem Physiol Part D Genomics Proteomics. 2015 May 6;15:12-19</p>
+        <p>Authors:  Lee BY, Kim HS, Choi BS, Hwang DS, Choi AY, Han J, Won EJ, Choi IY, Lee SH, Om AS, Park HG, Lee JS</p>
+        <p>Abstract<br/>
+        Copepods are among the most abundant taxa in marine invertebrates, and cyclopoid copepods include more than 1500 species and subspecies. In marine ecosystems, planktonic copepods play a significant role as food resources in the food web and sensitively respond to environmental changes. The copepod Paracylopina nana is one of the planktonic brackish water copepods and considered as a promising model species in ecotoxicology. We sequenced the whole transcriptome of P. nana using RNA-seq technology. De novo sequence assembly by Trinity integrated with TransDecoder produced 67,179 contigs including putative alternative spliced variants. A total of 12,474 genes were identified based on BLAST analysis, and gene sequences were most similar to the sequences of the branchiopod Daphnia. Gene Ontology and KEGG pathway analysis showed that most transcripts annotated were involved in pathways of various metabolisms, immune system, signal transduction, and translation. Considering numbers of sequences and enzymes involved in the pathways, particularly attention was paid to genes potentially involved in xenobiotics biodegradation and metabolism. With regard to xenobiotics metabolism, various xenobiotic metabolizing enzymes such as oxidases, dehydrogenases, and transferases were obtained from the annotated transcripts. The whole transcriptome analysis of P. nana provides valuable resources for future studies of xenobiotics-related metabolism in this marine copepod species.<br/>
+        </p><p>PMID: 26001055 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Lee BY, Kim HS, Choi BS, Hwang DS, Choi AY, Han J, Won EJ, Choi IY, Lee SH, Om AS, Park HG, Lee JS</author>
+    <category>Comp Biochem Physiol Part D Genomics Proteomics</category>
+    <guid isPermaLink="false">PubMed:26001055</guid>
+</item>
+<item>
+    <title>High-Throughput Single-Cell Labeling (Hi-SCL) for RNA-Seq Using Drop-Based Microfluidics.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/26000628?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://dx.plos.org/10.1371/journal.pone.0116328"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.plosone.org-images-pone_120x30.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=26000628">Related Articles</a></td></tr></table>
+        <p><b>High-Throughput Single-Cell Labeling (Hi-SCL) for RNA-Seq Using Drop-Based Microfluidics.</b></p>          
+        <p>PLoS One. 2015;10(5):e0116328</p>
+        <p>Authors:  Rotem A, Ram O, Shoresh N, Sperling RA, Schnall-Levin M, Zhang H, Basu A, Bernstein BE, Weitz DA</p>
+        <p>Abstract<br/>
+        The importance of single-cell level data is increasingly appreciated, and significant advances in this direction have been made in recent years. Common to these technologies is the need to physically segregate individual cells into containers, such as wells or chambers of a micro-fluidics chip. High-throughput Single-Cell Labeling (Hi-SCL) in drops is a novel method that uses drop-based libraries of oligonucleotide barcodes to index individual cells in a population. The use of drops as containers, and a microfluidics platform to manipulate them en-masse, yields a highly scalable methodological framework. Once tagged, labeled molecules from different cells may be mixed without losing the cell-of-origin information. Here we demonstrate an application of the method for generating RNA-sequencing data for multiple individual cells within a population. Barcoded oligonucleotides are used to prime cDNA synthesis within drops. Barcoded cDNAs are then combined and subjected to second generation sequencing. The data are deconvoluted based on the barcodes, yielding single-cell mRNA expression data. In a proof-of-concept set of experiments we show that this method yields data comparable to other existing methods, but with unique potential for assaying very large numbers of cells.<br/>
+        </p><p>PMID: 26000628 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Rotem A, Ram O, Shoresh N, Sperling RA, Schnall-Levin M, Zhang H, Basu A, Bernstein BE, Weitz DA</author>
+    <category>PLoS One</category>
+    <guid isPermaLink="false">PubMed:26000628</guid>
+</item>
+<item>
+    <title>Noncoding RNAs in human saliva as potential disease biomarkers.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25999984?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://dx.doi.org/10.3389/fgene.2015.00175"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.frontiersin.org-alerts-logo-logo_LinkOut.jpg" border="0"/></a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25999984/"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25999984">Related Articles</a></td></tr></table>
+        <p><b>Noncoding RNAs in human saliva as potential disease biomarkers.</b></p>          
+        <p>Front Genet. 2015;6:175</p>
+        <p>Authors:  Lin X, Lo HC, Wong DT, Xiao X</p>
+        <p>PMID: 25999984 [PubMed]</p>
+    ]]></description>
+    <author> Lin X, Lo HC, Wong DT, Xiao X</author>
+    <category>Front Genet</category>
+    <guid isPermaLink="false">PubMed:25999984</guid>
+</item>
+<item>
+    <title>Endogenic oxidative stress response contributes to glutathione over-accumulation in mutant Saccharomyces cerevisiae Y518.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25998657?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://dx.doi.org/10.1007/s00253-015-6629-7"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--production.springer.de-OnlineResources-Logos-springerlink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25998657">Related Articles</a></td></tr></table>
+        <p><b>Endogenic oxidative stress response contributes to glutathione over-accumulation in mutant Saccharomyces cerevisiae Y518.</b></p>          
+        <p>Appl Microbiol Biotechnol. 2015 May 22;</p>
+        <p>Authors:  Zhu Y, Sun J, Zhu Y, Wang L, Qi B</p>
+        <p>Abstract<br/>
+        Mechanisms of glutathione (GSH) over-accumulation in mutant Saccharomyces cerevisiae Y518 screened by ultraviolet and nitrosoguanidine-induced random mutagenesis were studied. Y518 accumulated higher levels of GSH and L-cysteine than its wild-type strain. RNA-Seq and pathway enrichment analysis indicated a difference in the expression of key genes involved in cysteine production, the GSH biosynthesis pathway, and antioxidation processes. GSH1, MET17, CYS4, GPX2, CTT1, TRX2, and SOD1 and the transcriptional activators SKN7 and YAP1 were up-regulated in the mutant. Moreover, Y518 showed a dysfunctional respiratory chain resulting from dramatically weakened activity of complex III and significant elevation of intracellular reactive oxygen species (ROS) levels. The supplementation of antimycin A in the culture of the parent strain showed equivalent changes of ROS and GSH level. This study indicates that defective complex III prompts abundant endogenic ROS generation, which triggers an oxidative stress response and upregulation of gene expression associated with GSH biosynthesis. This finding may be helpful for developing new strategies for GSH fermentation process optimization or metabolic engineering.<br/>
+        </p><p>PMID: 25998657 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Zhu Y, Sun J, Zhu Y, Wang L, Qi B</author>
+    <category>Appl Microbiol Biotechnol</category>
+    <guid isPermaLink="false">PubMed:25998657</guid>
+</item>
+
+</channel>
+</rss>

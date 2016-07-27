@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>pubmed: rna seq</title>
+	<link>http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=PubMed&amp;term=RNA%20seq</link>
+	<description>NCBI: db=pubmed; Term=RNA seq</description>
+	<language>en-us</language>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<ttl>1440</ttl>
+	<image>
+		<title>NCBI pubmed</title>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query/static/gifs/iconsml.gif</url>
+		<link>http://www.ncbi.nlm.nih.gov/sites/entrez</link>
+		<description>PubMed comprises more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.</description>
+	</image>
+<item>
+    <title myatt='testing'>Repositioning of Memantine as a Potential Novel Therapeutic Agent against Meningitic E. coli-Induced Pathogenicities through Disease-Associated Alpha7 Cholinergic Pathway and RNA Sequencing-Based Transcriptome Analysis of Host Inflammatory Responses.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25993608?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25993608">Related Articles</a></td></tr></table>
+        <p><b>Repositioning of Memantine as a Potential Novel Therapeutic Agent against Meningitic E. coli-Induced Pathogenicities through Disease-Associated Alpha7 Cholinergic Pathway and RNA Sequencing-Based Transcriptome Analysis of Host Inflammatory Responses.</b></p>          
+        <p>PLoS One. 2015;10(5):e0121911</p>
+        <p>Authors:  Yu JY, Zhang B, Peng L, Wu CH, Cao H, Zhong JF, Hoffman J, Huang SH</p>
+        <p>Abstract<br/>
+        Neonatal sepsis and meningitis (NSM) remains a leading cause worldwide of mortality and morbidity in newborn infants despite the availability of antibiotics over the last several decades. E. coli is the most common gram-negative pathogen causing NSM. Our previous studies show that α7 nicotinic receptor (α7 nAChR), an essential regulator of inflammation, plays a detrimental role in the host defense against NSM. Despite notable successes, there still exists an unmet need for new effective therapeutic approaches to treat this disease. Using the in vitro/in vivo models of the blood-brain barrier (BBB) and RNA-seq, we undertook a drug repositioning study to identify unknown antimicrobial activities for known drugs. We have demonstrated for the first time that memantine (MEM), a FDA-approved drug for treatment of Alzheimer's disease, could very efficiently block E. coli-caused bacteremia and meningitis in a mouse model of NSM in a manner dependent on α7 nAChR. MEM was able to synergistically enhance the antibacterial activity of ampicillin in HBMEC infected with E. coli K1 (E44) and in neonatal mice with E44-caused bacteremia and meningitis. Differential gene expression analysis of RNA-Seq data from mouse BMEC infected with E. coli K1 showed that several E44-increased inflammatory factors, including IL33, IL18rap, MMP10 and Irs1, were significantly reduced by MEM compared to the infected cells without drug treatment. MEM could also significantly up-regulate anti-inflammatory factors, including Tnfaip3, CISH, Ptgds and Zfp36. Most interestingly, these factors may positively and negatively contribute to regulation of NF-κB, which is a hallmark feature of bacterial meningitis. Furthermore, we have demonstrated that circulating BMEC (cBMEC) are the potential novel biomarkers for NSM. MEM could significantly reduce E44-increased blood level of cBMEC in mice. Taken together, our data suggest that memantine can efficiently block host inflammatory responses to bacterial infection through modulation of both inflammatory and anti-inflammatory pathways.<br/>
+        </p><p>PMID: 25993608 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Yu JY, Zhang B, Peng L, Wu CH, Cao H, Zhong JF, Hoffman J, Huang SH</author>
+    <category>PLoS One</category>
+    <guid isPermaLink="false">PubMed:25993608</guid>
+</item>
+<item>
+    <title>Identification and Expression Analysis of Candidate Genes Associated with Defense Responses to Phytophthora capsici in Pepper Line "PI 201234".</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25993303?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25993303">Related Articles</a></td></tr></table>
+        <p><b>Identification and Expression Analysis of Candidate Genes Associated with Defense Responses to Phytophthora capsici in Pepper Line "PI 201234".</b></p>          
+        <p>Int J Mol Sci. 2015;16(5):11417-11438</p>
+        <p>Authors:  Wang P, Liu X, Guo J, Liu C, Fu N, Shen H</p>
+        <p>Abstract<br/>
+        Phytophthora capsici (Leonian), classified as an oomycete, seriously threatens the production of pepper (Capsicum annuum). Current understanding of the defense responses in pepper to P. capsici is limited. In this study, RNA-sequencing analysis was utilized to identify differentially expressed genes in the resistant line "PI 201234", with 1220 differentially expressed genes detected. Of those genes, 480 were up-regulated and 740 were down-regulated, with 211 candidate genes found to be involved in defense responses based on the gene annotations. Furthermore, the expression patterns of 12 candidate genes were further validated via quantitative real-time PCR (qPCR). These genes were found to be significantly up-regulated at different time points post-inoculation (6 hpi, 24 hpi, and 5 dpi) in the resistant line "PI 201234" and susceptible line "Qiemen". Seven genes were found to be involved in cell wall modification, phytoalexin biosynthesis, symptom development, and phytohormone signaling pathways, thus possibly playing important roles in combating exogenous pathogens. The genes identified herein will provide a basis for further gene cloning and functional verification studies and will aid in an understanding of the regulatory mechanism of pepper resistance to P. capsici.<br/>
+        </p><p>PMID: 25993303 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Wang P, Liu X, Guo J, Liu C, Fu N, Shen H</author>
+    <category>Int J Mol Sci</category>
+    <guid isPermaLink="false">PubMed:25993303</guid>
+</item>
+<item>
+    <title>Comparative Analysis of Anther Transcriptome Profiles of Two Different Rice Male Sterile Lines Genotypes under Cold Stress.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25993302?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25993302">Related Articles</a></td></tr></table>
+        <p><b>Comparative Analysis of Anther Transcriptome Profiles of Two Different Rice Male Sterile Lines Genotypes under Cold Stress.</b></p>          
+        <p>Int J Mol Sci. 2015;16(5):11398-11416</p>
+        <p>Authors:  Bai B, Wu J, Sheng WT, Zhou B, Zhou LJ, Zhuang W, Yao DP, Deng QY</p>
+        <p>Abstract<br/>
+        Rice is highly sensitive to cold stress during reproductive developmental stages, and little is known about the mechanisms of cold responses in rice anther. Using the HiSeq™ 2000 sequencing platform, the anther transcriptome of photo thermo sensitive genic male sterile lines (PTGMS) rice Y58S and P64S (Pei'ai64S) were analyzed at the fertility sensitive stage under cold stress. Approximately 243 million clean reads were obtained from four libraries and aligned against the oryza indica genome and 1497 and 5652 differentially expressed genes (DEGs) were identified in P64S and Y58S, respectively. Both gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were conducted for these DEGs. Functional classification of DEGs was also carried out. The DEGs common to both genotypes were mainly involved in signal transduction, metabolism, transport, and transcriptional regulation. Most of the DEGs were unique for each comparison group. We observed that there were more differentially expressed MYB (Myeloblastosis) and zinc finger family transcription factors and signal transduction components such as calmodulin/calcium dependent protein kinases in the Y58S comparison group. It was also found that ribosome-related DEGs may play key roles in cold stress signal transduction. These results presented here would be particularly useful for further studies on investigating the molecular mechanisms of rice responses to cold stress.<br/>
+        </p><p>PMID: 25993302 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Bai B, Wu J, Sheng WT, Zhou B, Zhou LJ, Zhuang W, Yao DP, Deng QY</author>
+    <category>Int J Mol Sci</category>
+    <guid isPermaLink="false">PubMed:25993302</guid>
+</item>
+<item>
+    <title>Convergent Evolution at the Gametophytic Self-Incompatibility System in Malus and Prunus.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25993016?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25993016">Related Articles</a></td></tr></table>
+        <p><b>Convergent Evolution at the Gametophytic Self-Incompatibility System in Malus and Prunus.</b></p>          
+        <p>PLoS One. 2015;10(5):e0126138</p>
+        <p>Authors:  Aguiar B, Vieira J, Cunha AE, Fonseca NA, Iezzoni A, van Nocker S, Vieira CP</p>
+        <p>Abstract<br/>
+        S-RNase-based gametophytic self-incompatibility (GSI) has evolved once before the split of the Asteridae and Rosidae. This conclusion is based on the phylogenetic history of the S-RNase that determines pistil specificity. In Rosaceae, molecular characterizations of Prunus species, and species from the tribe Pyreae (i.e., Malus, Pyrus, Sorbus) revealed different numbers of genes determining S-pollen specificity. In Prunus only one pistil and pollen gene determine GSI, while in Pyreae there is one pistil but multiple pollen genes, implying different specificity recognition mechanisms. It is thus conceivable that within Rosaceae the genes involved in GSI in the two lineages are not orthologous but possibly paralogous. To address this hypothesis we characterised the S-RNase lineage and S-pollen lineage genes present in the genomes of five Rosaceae species from three genera: M. × domestica (apple, self-incompatible (SI); tribe Pyreae), P. persica (peach, self-compatible (SC); Amygdaleae), P. mume (mei, SI; Amygdaleae), Fragaria vesca (strawberry, SC; Potentilleae), and F. nipponica (mori-ichigo, SI; Potentilleae). Phylogenetic analyses revealed that the Malus and Prunus S-RNase and S-pollen genes belong to distinct gene lineages, and that only Prunus S-RNase and SFB-lineage genes are present in Fragaria. Thus, S-RNase based GSI system of Malus evolved independently from the ancestral system of Rosaceae. Using expression patterns based on RNA-seq data, the ancestral S-RNase lineage gene is inferred to be expressed in pistils only, while the ancestral S-pollen lineage gene is inferred to be expressed in tissues other than pollen.<br/>
+        </p><p>PMID: 25993016 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Aguiar B, Vieira J, Cunha AE, Fonseca NA, Iezzoni A, van Nocker S, Vieira CP</author>
+    <category>PLoS One</category>
+    <guid isPermaLink="false">PubMed:25993016</guid>
+</item>
+<item>
+    <title>Right ventricular long noncoding RNA expression in human heart failure.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25992278?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25992278">Related Articles</a></td></tr></table>
+        <p><b>Right ventricular long noncoding RNA expression in human heart failure.</b></p>          
+        <p>Pulm Circ. 2015 Mar;5(1):135-61</p>
+        <p>Authors:  Di Salvo TG, Guo Y, Su YR, Clark T, Brittain E, Absi T, Maltais S, Hemnes A</p>
+        <p>Abstract<br/>
+        The expression of long noncoding RNAs (lncRNAs) in human heart failure (HF) has not been widely studied. Using RNA sequencing (RNA-Seq), we compared lncRNA expression in 22 explanted human HF hearts with lncRNA expression in 5 unused donor human hearts. We used Cufflinks to identify isoforms and DESeq to identify differentially expressed genes. We identified the noncoding RNAs by cross-reference to Ensembl release 73 (Genome Reference Consortium human genome build 37) and explored possible functional roles using a variety of online tools. In HF hearts, RNA-Seq identified 84,793 total messenger RNA coding and noncoding different transcripts, including 13,019 protein-coding genes, 2,085 total lncRNA genes, and 1,064 pseudogenes. By Ensembl noncoding RNA categories, there were 48 lncRNAs, 27 pseudogenes, and 30 antisense RNAs for a total of 105 differentially expressed lncRNAs in HF hearts. Compared with donor hearts, HF hearts exhibited differential expression of 7.7% of protein-coding genes, 3.7% of lncRNAs (including pseudogenes), and 2.5% of pseudogenes. There were not consistent correlations between antisense lncRNAs and parent genes and between pseudogenes and parent genes, implying differential regulation of expression. Exploratory in silico functional analyses using online tools suggested a variety of possible lncRNA regulatory roles. By providing a comprehensive profile of right ventricular polyadenylated messenger RNA transcriptome in HF, RNA-Seq provides an inventory of differentially expressed lncRNAs, including antisense transcripts and pseudogenes, for future mechanistic study. <br/>
+        </p><p>PMID: 25992278 [PubMed]</p>
+    ]]></description>
+    <author> Di Salvo TG, Guo Y, Su YR, Clark T, Brittain E, Absi T, Maltais S, Hemnes A</author>
+    <category>Pulm Circ</category>
+    <guid isPermaLink="false">PubMed:25992278</guid>
+</item>
+<item>
+    <title>The miR-193a-3p-regulated ING5 gene activates the DNA damage response pathway and inhibits multi-chemoresistance in bladder cancer.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25991669?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25991669">Related Articles</a></td></tr></table>
+        <p><b>The miR-193a-3p-regulated ING5 gene activates the DNA damage response pathway and inhibits multi-chemoresistance in bladder cancer.</b></p>          
+        <p>Oncotarget. 2015 Apr 30;6(12):10195-206</p>
+        <p>Authors:  Li Y, Deng H, Lv L, Zhang C, Qian L, Xiao J, Zhao W, Liu Q, Zhang D, Wang Y, Yan J, Zhang H, He Y, Zhu J</p>
+        <p>Abstract<br/>
+        As the major barrier to curative cancer chemotherapy, chemoresistance presents a formidable challenge to both cancer researchers and clinicians. We have previously shown that the bladder cancer (BCa) cell line 5637 is significantly more sensitive to the cytoxicity of five chemotherapeutic agents than H-bc cells. Using an RNA-seq-based omic analysis and validation at both the mRNA and protein levels, we found that the inhibitor of growth 5 (ING5) gene was upregulated in 5637 cells compared with H-bc cells, indicating that it has an inhibitory role in BCa chemoresistance. siRNA-mediated inhibition of ING5 increased the chemoresistance and inhibited the DNA damage response pathway in 5637 cells. Conversely, forced expression of EGFP-ING5 decreased the chemoresistance of and activated the DNA damage response pathway in H-bc cells. We also showed that ING5 gene expression is inhibited by miR-193a-3p and is instrumental in miR-193a-3p's role in activating BCa chemoresistance. Our results demonstrate both the role and mechanism of inhibition of BCa chemoresistance by ING5. <br/>
+        </p><p>PMID: 25991669 [PubMed - in process]</p>
+    ]]></description>
+    <author> Li Y, Deng H, Lv L, Zhang C, Qian L, Xiao J, Zhao W, Liu Q, Zhang D, Wang Y, Yan J, Zhang H, He Y, Zhu J</author>
+    <category>Oncotarget</category>
+    <guid isPermaLink="false">PubMed:25991669</guid>
+</item>
+<item>
+    <title>A Brn2-Zic1 axis specifies the neuronal fate of retinoic acid treated embryonic stem cells.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25991548?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25991548">Related Articles</a></td></tr></table>
+        <p><b>A Brn2-Zic1 axis specifies the neuronal fate of retinoic acid treated embryonic stem cells.</b></p>          
+        <p>J Cell Sci. 2015 May 19;</p>
+        <p>Authors:  Urban S, Kobi D, Ennen M, Langer D, Le Gras S, Ye T, Davidson I</p>
+        <p>Abstract<br/>
+        Murine embryonic stem (ES) cells treated with all-trans retinoic acid (RA) differentiate into a homogenous population of glutamatergic neurons. While differentiation is initiated by activation of target genes by the RA-receptors, the downstream transcription factors specifying neuronal fate are less well characterised. We show that transcription factor Pou3f2 (Brn2) is essential for the neuronal differentiation programme. By integrating RNA-seq following Brn2 silencing with Brn2 ChIP-seq, we identify a set of Brn2 target genes required for the neurogenic programme. Further integration of Brn2 ChIP-seq data from RA-treated ES and P19 cells with ES cells differentiated into neuronal precursors by Fgf2 treatment and fibroblasts trans-differentiated into neurons by ectopic Brn2 expression showed Brn2 occupancy of a distinct but overlapping set of genomic loci. However, a set of common binding sites and target genes define the core of the Brn2-regulated neuronal program amongst which is transcription factor Zic1. ShRNA mediated silencing of Zic1 abrogates neural fate thus defining a hierarchical Brn2-Zic1 axis essential to specify the neural fate of RA-treated ES cells.<br/>
+        </p><p>PMID: 25991548 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Urban S, Kobi D, Ennen M, Langer D, Le Gras S, Ye T, Davidson I</author>
+    <category>J Cell Sci</category>
+    <guid isPermaLink="false">PubMed:25991548</guid>
+</item>
+<item>
+    <title>OncoRep: an n-of-1 reporting tool to support genome-guided treatment for breast cancer patients using RNA-sequencing.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25989980?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25989980">Related Articles</a></td></tr></table>
+        <p><b>OncoRep: an n-of-1 reporting tool to support genome-guided treatment for breast cancer patients using RNA-sequencing.</b></p>          
+        <p>BMC Med Genomics. 2015 May 21;8(1):24</p>
+        <p>Authors:  Meißner T, Fisch KM, Gioia L, Su AI</p>
+        <p>Abstract<br/>
+        BACKGROUND: Breast cancer comprises multiple tumor entities associated with different biological features and clinical behaviors, making individualized medicine a powerful tool to bring the right drug to the right patient. Next generation sequencing of RNA (RNA-Seq) is a suitable method to detect targets for individualized treatment. Challenges that arise are i) preprocessing and analyzing RNA-Seq data in the n-of-1 setting, ii) extracting clinically relevant and actionable targets from complex data, iii) integrating drug databases, and iv) reporting results to clinicians in a timely and understandable manner.<br/>
+        RESULTS: To address these challenges, we present OncoRep, an RNA-Seq based n-of-1 reporting tool for breast cancer patients. It reports molecular classification, altered genes and pathways, gene fusions, clinically actionable mutations and drug recommendations. It visualizes the data in an approachable html-based interactive report and a PDF clinical report, providing the clinician and tumor board with a tool to guide the treatment decision making process.<br/>
+        CONCLUSIONS: OncoRep is free and open-source ( https://bitbucket.org/sulab/oncorep/ ), thereby offering a platform for future development and innovation by the community.<br/>
+        </p><p>PMID: 25989980 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Meißner T, Fisch KM, Gioia L, Su AI</author>
+    <category>BMC Med Genomics</category>
+    <guid isPermaLink="false">PubMed:25989980</guid>
+</item>
+<item>
+    <title>Effect of ovarian hormones on the healthy equine uterus: a global gene expression analysis.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25989818?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25989818">Related Articles</a></td></tr></table>
+        <p><b>Effect of ovarian hormones on the healthy equine uterus: a global gene expression analysis.</b></p>          
+        <p>Reprod Fertil Dev. 2015 May 20;</p>
+        <p>Authors:  Marth CD, Young ND, Glenton LY, Noden DM, Browning GF, Krekeler N</p>
+        <p>Abstract<br/>
+        The physiological changes associated with the varying hormonal environment throughout the oestrous cycle are linked to the different functions the uterus needs to fulfil. The aim of the present study was to generate global gene expression profiles for the equine uterus during oestrus and Day 5 of dioestrus. To achieve this, samples were collected from five horses during oestrus (follicle &gt;35 mm in diameter) and dioestrus (5 days after ovulation) and analysed using high-throughput RNA sequencing techniques (RNA-Seq). Differentially expressed genes between the two cycle stages were further investigated using Gene Ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses. The expression of 1577 genes was found to be significantly upregulated during oestrus, whereas 1864 genes were expressed at significantly higher levels in dioestrus. Most genes upregulated during oestrus were associated with the extracellular matrix, signal interaction and transduction, cell communication or immune function, whereas genes expressed at higher levels in early dioestrus were most commonly associated with metabolic or transport functions, correlating well with the physiological functions of the uterus. These results allow for a more complete understanding of the hormonal influence on gene expression in the equine uterus by functional analysis of up- and downregulated genes in oestrus and dioestrus, respectively. In addition, a valuable baseline is provided for further research, including analyses of changes associated with uterine inflammation.<br/>
+        </p><p>PMID: 25989818 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Marth CD, Young ND, Glenton LY, Noden DM, Browning GF, Krekeler N</author>
+    <category>Reprod Fertil Dev</category>
+    <guid isPermaLink="false">PubMed:25989818</guid>
+</item>
+<item>
+    <title>Ezh2 maintains retinal progenitor proliferation, transcriptional integrity, and the timing of late differentiation.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25989023?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://linkinghub.elsevier.com/retrieve/pii/S0012-1606(15)00279-1"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25989023">Related Articles</a></td></tr></table>
+        <p><b>Ezh2 maintains retinal progenitor proliferation, transcriptional integrity, and the timing of late differentiation.</b></p>          
+        <p>Dev Biol. 2015 May 16;</p>
+        <p>Authors:  Zhang J, Taylor RJ, La Torre A, Wilken MS, Cox KE, Reh TA, Vetter ML</p>
+        <p>Abstract<br/>
+        Epigenetic regulation, including histone modification, is a critical component of gene regulation, although precisely how this contributes to the development of complex tissues such as the neural retina is still being explored. We show that during retinal development in mouse, there are dynamic patterns of expression of the polycomb repressive complex 2 (PRC2) catalytic subunit EZH2 in retinal progenitors and some differentiated cells, as well as dynamic changes in the histone modification H3K27me3. Using conditional knockout of Ezh2 using either Pax6-αCre or Six3-Cre, we find selective reduction in postnatal retinal progenitor proliferation, disruption of retinal lamination, and enhanced differentiation of several late born cell types in the early postnatal retina, including photoreceptors and Müller glia, which are ultimately increased in number and become reactive. RNA-seq identifies many non-retinal genes upregulated with loss of Ezh2, including multiple Hox genes and the cell cycle regulator Cdkn2a, which are established targets of EZH2-mediated repression. ChIP analysis confirms loss of the H3K27me3 modification at these loci. Similar gene upregulation is observed in retinal explants treated with an EZH2 chemical inhibitor. There is considerable overlap with EZH2-regulated genes reported in non-neural tissues, suggesting that EZH2 can regulate similar genes in multiple lineages. Our findings reveal a conserved role for EZH2 in constraining the expression of potent developmental regulators to maintain lineage integrity and retinal progenitor proliferation, as well as regulating the timing of late differentiation.<br/>
+        </p><p>PMID: 25989023 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Zhang J, Taylor RJ, La Torre A, Wilken MS, Cox KE, Reh TA, Vetter ML</author>
+    <category>Dev Biol</category>
+    <guid isPermaLink="false">PubMed:25989023</guid>
+</item>
+<item>
+    <title>Divergence of transcriptional landscape occurs early in B cell activation.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25987903?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://www.epigeneticsandchromatin.com/content/8//20"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.biomedcentral.com-graphics-pubmed-BioMedCentral_free_1.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25987903">Related Articles</a></td></tr></table>
+        <p><b>Divergence of transcriptional landscape occurs early in B cell activation.</b></p>          
+        <p>Epigenetics Chromatin. 2015;8:20</p>
+        <p>Authors:  Fowler T, Garruss AS, Ghosh A, De S, Becker KG, Wood WH, Weirauch MT, Smale ST, Aronow B, Sen R, Roy AL</p>
+        <p>Abstract<br/>
+        BACKGROUND: Signaling via B cell receptor (BCR) and Toll-like receptors (TLRs) results in activation of B cells with distinct physiological outcomes, but transcriptional regulatory mechanisms that drive activation and distinguish these pathways remain unknown.<br/>
+        RESULTS: Two hours after ligand exposure RNA-seq, ChIP-seq and computational methods reveal that BCR- or TLR-mediated activation of primary resting B cells proceeds via a large set of shared and a smaller subset of distinct signal-selective transcriptional responses. BCR stimulation resulted in increased global recruitment of RNA Pol II to promoters that appear to transit slowly to downstream regions. Conversely, lipopolysaccharide (LPS) stimulation involved an enhanced RNA Pol II transition from initiating to elongating mode accompanied by greater H3K4me3 activation markings compared to BCR stimulation. These rapidly diverging transcriptomic landscapes also show distinct repressing (H3K27me3) histone signatures, mutually exclusive transcription factor binding in promoters, and unique miRNA profiles.<br/>
+        CONCLUSIONS: Upon examination of genome-wide transcription and regulatory elements, we conclude that the B cell commitment to different activation states occurs much earlier than previously thought and involves a multi-faceted receptor-specific transcriptional landscape.<br/>
+        </p><p>PMID: 25987903 [PubMed]</p>
+    ]]></description>
+    <author> Fowler T, Garruss AS, Ghosh A, De S, Becker KG, Wood WH, Weirauch MT, Smale ST, Aronow B, Sen R, Roy AL</author>
+    <category>Epigenetics Chromatin</category>
+    <guid isPermaLink="false">PubMed:25987903</guid>
+</item>
+<item>
+    <title>Genome-wide analysis links NFATC2 with asparaginase hypersensitivity.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25987655?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25987655">Related Articles</a></td></tr></table>
+        <p><b>Genome-wide analysis links NFATC2 with asparaginase hypersensitivity.</b></p>          
+        <p>Blood. 2015 May 18;</p>
+        <p>Authors:  Fernandez CA, Smith C, Yang W, Mullighan CG, Qu C, Larsen E, Bowman WP, Liu C, Ramsey LB, Chang T, Karol SE, Loh ML, Raetz EA, Winick NJ, Hunger SP, Carroll WL, Jeha S, Pui CH, Evans WE, Devidas M, Relling MV</p>
+        <p>Abstract<br/>
+        Asparaginase is used to treat acute lymphoblastic leukemia (ALL); however, hypersensitivity reactions can lead to suboptimal asparaginase exposure. Our objective was to use a genome-wide approach to identify loci associated with asparaginase hypersensitivity in children with ALL enrolled on St. Jude Children's Research Hospital (SJCRH) protocols Total XIIIA (n = 154), Total XV (n = 498) and Total XVI (n = 271) or Children's Oncology Group protocols POG 9906 (n = 222) and AALL0232 (n = 2,163). Germline DNA was genotyped using the Affymetrix 500K, Affymetrix 6.0, or the Illumina Exome Beadchip array. In multivariate logistic regression, the intronic rs6021191 variant in NFATC2 had the strongest association with hypersensitivity (P = 4.1x10(-8), OR = 3.11). RNA-seq data available from 65 SJCRH ALL tumor samples and 52 Yoruban HapMap samples showed that samples carrying the rs6021191 variant had higher NFATC2 expression compared to non-carriers (P = 1.1x10(-3) and 0.03, respectively). The top ranked non-synonymous polymorphism was rs17885382 in HLA-DRB1 (P = 3.2x10(-6), OR = 1.63), which is in near complete linkage disequilibrium with the HLA-DRB1*07:01 allele we previously observed in a candidate gene study. The strongest risk factors for asparaginase allergy are variants within genes regulating the immune response.<br/>
+        </p><p>PMID: 25987655 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Fernandez CA, Smith C, Yang W, Mullighan CG, Qu C, Larsen E, Bowman WP, Liu C, Ramsey LB, Chang T, Karol SE, Loh ML, Raetz EA, Winick NJ, Hunger SP, Carroll WL, Jeha S, Pui CH, Evans WE, Devidas M, Relling MV</author>
+    <category>Blood</category>
+    <guid isPermaLink="false">PubMed:25987655</guid>
+</item>
+<item>
+    <title>Regulation of the Min cell division inhibition complex by the Rcs phosphorelay in Proteus mirabilis.</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25986901?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25986901">Related Articles</a></td></tr></table>
+        <p><b>Regulation of the Min cell division inhibition complex by the Rcs phosphorelay in Proteus mirabilis.</b></p>          
+        <p>J Bacteriol. 2015 May 18;</p>
+        <p>Authors:  Howery KE, Clemmer KM, Şimşek E, Kim M, Rather PN</p>
+        <p>Abstract<br/>
+        A key regulator of swarming in Proteus mirabilis is the Rcs phosphorelay, which represses flhDC encoding the master flagellar regulator FlhD4C2. Mutants in rcsB, the response regulator in the Rcs phosphorelay, hyperswarm on solid agar and differentiate into swarmer cells in liquid, demonstrating this system also influences the expression of genes central to differentiation. To gain a further understanding of RcsB regulated genes involved in swarmer cell differentiation, RNA-Seq was used to examine the RcsB regulon. Among the 133 genes identified, minC and minD, encoding cell division inhibitors were identified as RcsB activated genes. A third gene, minE, was shown to be part of an operon with minCD. To examine minCDE regulation, the min promoter was identified by 5' -RACE and both transcriptional lacZ fusions and qRT-PCR were used to confirm that the minCDE operon was RcsB activated. Purified RcsB was capable of directly binding the minC promoter region. To determine the role of RcsB mediated activation of minCDE in swarmer cell differentiation, a polar minC mutation was constructed. This mutant formed minicells during growth in liquid, produced shortened swarmer cells during differentiation and exhibited decreased swarming motility.<br/>
+        IMPORTANCE: This work describes the regulation and role of the MinCDE cell division system in P. mirabilis swarming and swarmer cell elongation. Previous to this study, the mechanisms that inhibit cell division and allow for swarmer cell elongation were unknown. In addition, this work outlines for the first time the RcsB regulon in P. mirabilis. Taken together, the data presented in this study begins to address how P. mirabilis elongates upon contact with a solid surface.<br/>
+        </p><p>PMID: 25986901 [PubMed - as supplied by publisher]</p>
+    ]]></description>
+    <author> Howery KE, Clemmer KM, Şimşek E, Kim M, Rather PN</author>
+    <category>J Bacteriol</category>
+    <guid isPermaLink="false">PubMed:25986901</guid>
+</item>
+<item>
+    <title>[Assembling of an ammonium transporter gene in Salicornia europaea by expression pattern analysis of Unigene in transcriptome].</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25985527?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"/><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25985527">Related Articles</a></td></tr></table>
+        <p><b>[Assembling of an ammonium transporter gene in Salicornia europaea by expression pattern analysis of Unigene in transcriptome].</b></p>          
+        <p>Sheng Wu Gong Cheng Xue Bao. 2014 Nov;30(11):1763-73</p>
+        <p>Authors:  Xiao X, Zhang X, Wu X, Ma J, Yao Y</p>
+        <p>Abstract<br/>
+        RNA-seq can help us quickly obtain the whole transcriptome sequences of species under different conditions. Many Unigenes that are assembled by raw reads always do not contain complete open reading frame (ORF). In addition, it also has some redundancy in transcriptome library. Some Unigenes in the library, although belong to one transcript, cannot be assembled without overlapping. We found five incomplete Unigenes annotated ammonium transporter (AMT) from Salicornia europaea transcriptome, in which two Unigenes (Uni4 and Uni5) had identical expression patterns across four transcriptomes. The two Unigenes may come from one transcript. Analyzing the Unigene position of transcript by NCBI blastx, we found that Uni4 and Uni5 respectively located in 5' end and 3' end compared with the reference transcript, and an unknown gap of 120 bp may exist in a hypothetic transcript to which Uni4 and Uni5 both belong. To verify the hypothesis, single forward primer and single reverse primers were respectively designed on Uni4 and Uni5, and a fragment with about 800 bp was generated by PCR. Then it was sequenced and aligned with Uni4 and Uni5. Finally, we assembled a sequence with 1 667 bp, which contains a complete ORF (1 482 bp, coding 494 amino acids). It belongs to amt1 subfamily and was named Seamt1 via the phylogenetic analysis. It was pointed by bioinformatics tools that SeAMT1 protein conformed to the AMT characteristics of other species. This work clustered expression pattern to explore the Unigenes of one transcript, and the feasibility of this method was validated through the other two groups of Unigenes. The handy method will benefit extension and assembling of Unigene in transcriptome, it also helps achieve the complete ORF and gene function.<br/>
+        </p><p>PMID: 25985527 [PubMed - in process]</p>
+    ]]></description>
+    <author> Xiao X, Zhang X, Wu X, Ma J, Yao Y</author>
+    <category>Sheng Wu Gong Cheng Xue Bao</category>
+    <guid isPermaLink="false">PubMed:25985527</guid>
+</item>
+<item>
+    <title>Comparative Transcriptome Analysis between the Cytoplasmic Male Sterile Line NJCMS1A and Its Maintainer NJCMS1B in Soybean (Glycine max (L.) Merr.).</title>         
+    <link>http://www.ncbi.nlm.nih.gov/pubmed/25985300?dopt=Abstract</link>    
+    <description>
+	<![CDATA[<table border="0" width="100%"><tr><td align="left"><a href="http://dx.plos.org/10.1371/journal.pone.0126771"><img src="//www.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.plosone.org-images-pone_120x30.png" border="0"/></a> </td><td align="right"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;cmd=Link&amp;LinkName=pubmed_pubmed&amp;from_uid=25985300">Related Articles</a></td></tr></table>
+        <p><b>Comparative Transcriptome Analysis between the Cytoplasmic Male Sterile Line NJCMS1A and Its Maintainer NJCMS1B in Soybean (Glycine max (L.) Merr.).</b></p>          
+        <p>PLoS One. 2015;10(5):e0126771</p>
+        <p>Authors:  Li J, Han S, Ding X, He T, Dai J, Yang S, Gai J</p>
+        <p>Abstract<br/>
+        BACKGROUND: The utilization of soybean heterosis is probably one of the potential approaches in future yield breakthrough as was the situation in rice breeding in China. Cytoplasmic male sterility (CMS) plays an important role in the production of hybrid seeds. However, the molecular mechanism of CMS in soybean remains unclear.<br/>
+        RESULTS: The comparative transcriptome analysis between cytoplasmic male sterile line NJCMS1A and its near-isogenic maintainer NJCMS1B in soybean was conducted using Illumina sequencing technology. A total of 88,643 transcripts were produced in Illumina sequencing. Then 56,044 genes were obtained matching soybean reference genome. Three hundred and sixty five differentially expressed genes (DEGs) between NJCMS1A and NJCMS1B were screened by threshold, among which, 339 down-regulated and 26 up-regulated in NJCMS1A compared to in NJCMS1B. Gene Ontology (GO) annotation showed that 242 DEGs were annotated to 19 functional categories. Clusters of Orthologous Groups of proteins (COG) annotation showed that 265 DEGs were classified into 19 categories. Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis showed that 46 DEGs were assigned to 33 metabolic pathways. According to functional and metabolic pathway analysis combined with reported literatures, the relations between some key DEGs and the male sterility of NJCMS1A were discussed. qRT-PCR analysis validated that the gene expression pattern in RNA-Seq was reliable. Finally, enzyme activity assay showed that energy supply was decreased in NJCMS1A compared to in NJCMS1B.<br/>
+        CONCLUSIONS: We concluded that the male sterility of NJCMS1A might be related to the disturbed functions and metabolism pathways of some key DEGs, such as DEGs involved in carbohydrate and energy metabolism, transcription factors, regulation of pollen development, elimination of reactive oxygen species (ROS), cellular signal transduction, and programmed cell death (PCD) etc. Future research will focus on cloning and transgenic function validation of possible candidate genes associated with soybean CMS.<br/>
+        </p><p>PMID: 25985300 [PubMed - in process]</p>
+    ]]></description>
+    <author> Li J, Han S, Ding X, He T, Dai J, Yang S, Gai J</author>
+    <category>PLoS One</category>
+    <guid isPermaLink="false">PubMed:25985300</guid>
+</item>
+
+</channel>
+</rss>
+

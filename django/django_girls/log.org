@@ -1,0 +1,114 @@
+# This is mainly coming from djangogirls
+http://tutorial.djangogirls.org/en/django_start_project/index.html
+# Create a virtual environment called myenv (this way each website
+# created can be setup differently)
+python3 -m venv myvenv
+# activate the virtual environment
+source myvenv/bin/activate
+# install django in the virtualenv (CLI starting with '(myvenv)')
+pip install django==1.9 
+# Edit the setting
+- set your time zone, eg TIME_ZONE = 'Europe/Berlin'
+- FOr static files (CSS, js etc...) add at the end of settings:
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+# Setup the database (with default sqlite3)
+python manage.py migrate
+# Start the server
+python manage.py runserver
+# Create a new app
+manage.py startapp news
+# Make Django aware of the new app, so add the 'news' app to the
+# INSTALLED_APPS variable in settings.py
+INSTALLED_APPS = (
+     ...
+    'news',
+)
+# Create a model, check for ex news/models/ NewsPost class 
+# Make django aware that changes should be submitted to the db (the
+# new model)
+python manage.py makemigrations news # where news is the app
+# then update the db
+python manage.py migrate news
+# To make it manageable by admin, edit the admin.py in the app folder
+ex:
+from .models import NewsPost
+admin.site.register(NewsPost)
+# create a superuser with admin powers
+python manage.py createsuperuser
+# play around on with the admin account in the browser
+...
+# Git me this thing up !
+git init
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+git status
+git add -A .
+git commit -m "my message here"
+# Link to github
+# First create a new repo on the github website 
+# then link it 
+git remote add origin https://github.com/khourhin/trufa2_project
+git push -u origin master
+# Clone it in python anywhere, ie start a bash console in python
+# anywhere and run
+git clone https://github.com/khourhin/trufa2_project.git
+# create a virtual env in python anywhere
+virtualenv --python=python3.4 myvenv
+# and activate it
+source myvenv/bin/activate
+# install django and whitenoise (for serving static files)
+pip install django whitenoise
+# Collecting the statics (@pyAny)
+python manage.py collectstatic
+# Creating db (@pyAny)
+# Create a new web ap and config (@pyAny), check djangogirls for details
+# Check if everything is working well @pyAny
+
+# Create some homepage/urls
+# in trufa2/urls add the needed urls
+e.g
+urlpatterns = [
+    url(r'^$', 'trufa2.views.home', name='home')
+    url(r'^news/', include('news.urls'))
+    url(r'^admin/', admin.site.urls),
+]
+# Add urls to views in app (news/urls.py)
+urlpatterns = [
+    url(r'^$', views.news_list, name='news_list')
+]
+# Add views (news/views.py)
+from django.shortcuts import render
+
+def news_list(request):
+    return render(request, 'news/news_list.html', {})
+# Left is to create templates in news/template/news/news_list.html
+
+# Querysets
+python manage.py shell
+# Check the instances of a paticular objects (in the interactive shell)
+ex:
+from news.models import NewsPost
+NewsPost.objects.all() 
+# OR
+from django.contrib.auth.models import User
+User.objects.all()
+# Create a new news entry from the shell
+user = User.objects.get(username="tiennou")
+NewsPost.objects.create(author=user, title="test2", text="This is a second post")
+# Get only the post by 'user' object (ie tiennou)
+NewsPost.objects.filter(author=user)
+# other type of filter
+NewsPost.objects.filter(title__contains='title')
+# Chaining is as well possible
+ex: Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
+# OUT of the shell
+# This this in the news/views.py
+# for ex, in news_list function:
+news = NewsPost.objects.order_by('date')
+return render(request, 'news/news_list.html', {'news': news})
+# and then pass it to the template
+for ex:
+      {% for new in news %}
+      <h2>{{ new.title }}</h2>
+      <p>{{ new.text }}</p>
+      <p>By {{ new.author }}</p>

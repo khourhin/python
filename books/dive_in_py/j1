@@ -1,0 +1,11 @@
+# Playing with bytes
+by = b'abcd\x65'
+mystr = "abcderrrrr"
+# Strings and bytes cannot be mixed, have to decode first the bytes
+b = mystr.count(by.decode('ascii'))
+c = "abcde".encode('ascii')
+# The byte repr and the actual byte code for a character
+print(c)
+print(c[0])
+
+

@@ -1,0 +1,12 @@
+{% extends 'news/base.html' %}
+
+{% block content %}
+    <div class="news">
+            <div class="date">
+                {{ news.date }}
+            </div>
+            <a class="btn btn-default" href="{% url 'news_edit' pk=news.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+        <h1>{{ news.title }}</h1>
+        <p>{{ news.text|linebreaks }}</p>
+    </div>
+{% endblock %}
