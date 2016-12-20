@@ -143,7 +143,21 @@ def plot_GO_freq(infile):
     plt.savefig("/home/tiennou/Desktop/test.png")
     plt.close()
 
+
+def heatmap_ex():
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    x = np.random.randn(9000)
+    y = np.random.randn(9000)
     
+    heatmap, xedges, yedges = np.histogram2d(x,y,bins=1000)
+    extent = [xedges[0], xedges[-1], yedges[0], yedges[-1]]
+    
+    plt.clf()
+    plt.imshow(heatmap.T, extent=extent, origin='lower')
+    plt.show()
+
 #-------------------------------------------------------------------------------
 if __name__ == "__main__":
 
