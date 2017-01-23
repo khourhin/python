@@ -45,7 +45,6 @@ def make_graphs():
         variance = v
         sigma = math.sqrt(variance)
         plt.plot(i, mlab.normpdf(i, mean, sigma), label="v="+str(v))
-        
     plt.legend()
 
     # different line style:
@@ -165,3 +164,8 @@ if __name__ == "__main__":
 #    inv_cum_hist()
 #    subplots()
     make_graphs2()
+
+# MISC
+# No axis ticks/labels (ex for y axis)
+# plt.tick_params(axis='y', which='both', left='off', right='off', labelleft='off')
+

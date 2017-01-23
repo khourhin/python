@@ -1,5 +1,9 @@
 import pysam
 
+# NOTES:
+# FOR HEADERS:
+# Info on github, works when writing with 'wb' or 'wh'
+
 # Get a fasta file
 with pysam.FastxFile(fasta) as fa:
     for seq in fa:
