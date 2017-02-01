@@ -65,4 +65,5 @@ def listsum(l):
 # d[d.fposition > 0].flength
 
 # And check loc for subsetting
+# df.loc[:,:]
 
