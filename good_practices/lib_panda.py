@@ -67,3 +67,11 @@ def listsum(l):
 # And check loc for subsetting
 # df.loc[:,:]
 
+# Build dataframes
+## The equivalent of rbind
+#df.append(pds.DataFrame(XXXXXXXXXXXX))
+
+# Change the index of a df
+# df.setindex('nameofcolum')
+# Or direclty with read_csv(index_col=NUM)
+# And select columns directly with usecols in read_csv

@@ -126,7 +126,7 @@ def plot_GO_freq(infile):
     #filtering out GO appearing only once:
     go_freq_sort = [ (g, f) for g, f in go_freq_sort if f > 1 ]
     
-    print go_freq_sort
+    print(go_freq_sort)
 
     go_dict = make_GO_dict("/home/tiennou/Downloads/gene_ontology_ext.obo")
     go_ids = [ x[0] for x in go_freq_sort ]
@@ -157,6 +157,12 @@ def heatmap_ex():
     plt.imshow(heatmap.T, extent=extent, origin='lower')
     plt.show()
 
+def easy_hist():
+    plt.hist([1,1,1,2,3])
+    plt.show()
+    plt.hist([1,1,1,2,3], bins=[0,10,20])
+    plt.show()
+    
 #-------------------------------------------------------------------------------
 if __name__ == "__main__":
 
@@ -168,4 +174,5 @@ if __name__ == "__main__":
 # MISC
 # No axis ticks/labels (ex for y axis)
 # plt.tick_params(axis='y', which='both', left='off', right='off', labelleft='off')
+
 
