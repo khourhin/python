@@ -21,7 +21,7 @@ print(data.head())
 print(data.sepal_width.head())
 # Without names
 print(data[[1]].head())
-# Make counts for histograms for example
+# Make c1ounts for histograms for example
 a = data['species'].value_counts()
 
 data.plot()
@@ -52,6 +52,9 @@ print(grouped.size())
 
 print(grouped.describe())
 
+flowers.groupby('species').mean().plot(kind='bar')
+plt.show()
+
 
 def listsum(l):
     return  [sum(i) for i in zip(*l)]
@@ -64,7 +67,7 @@ def listsum(l):
 # d[d.fposition > 0]
 # d[d.fposition > 0].flength
 
-# And check loc for subsetting
+# And check loc/iloc for subsetting
 # df.loc[:,:]
 
 # Build dataframes
