@@ -78,3 +78,6 @@ def listsum(l):
 # df.setindex('nameofcolum')
 # Or direclty with read_csv(index_col=NUM)
 # And select columns directly with usecols in read_csv
+
+# Reshaping
+# df.transpose()
