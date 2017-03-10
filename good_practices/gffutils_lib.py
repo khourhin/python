@@ -50,6 +50,9 @@ def gffutils_demo(gene_id, db):
     for i in db.children(gene, order_by='start'):
         print(i)
 
+    # Get all features of a gff db (iterator):
+    allF = db.all_features()
+
 
 def write_gff(db, fn):
     """
