@@ -79,5 +79,11 @@ def listsum(l):
 # Or direclty with read_csv(index_col=NUM)
 # And select columns directly with usecols in read_csv
 
+# Reorder index
+# Check reindex
+
 # Reshaping
 # df.transpose()
+
+# Replace NaN
+# df.fillna(WHATEVER)
