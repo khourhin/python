@@ -87,3 +87,5 @@ def listsum(l):
 
 # Replace NaN
 # df.fillna(WHATEVER)
+
+# pivot is the opposite of melt !!! Good for pairwise pmatrix construction
