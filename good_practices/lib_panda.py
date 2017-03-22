@@ -55,17 +55,25 @@ print(grouped.describe())
 flowers.groupby('species').mean().plot(kind='bar')
 plt.show()
 
-
 def listsum(l):
     return  [sum(i) for i in zip(*l)]
 
 
 # Subset tables
+
+# Check http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/v0.1/cookbook/Chapter%202%20-%20Selecting%20data%20&%20finding%20the%20most%20common%20complaint%20type.ipynb
+
 # df[['colname1','colname2']]
 
 # Filter according to values for ex:
 # d[d.fposition > 0]
 # d[d.fposition > 0].flength
+
+# Filter by index
+SRRs =['SRR2028247','SRR2029611','SRR2029614','SRR2029615','SRR2029617','SRR2029618','SRR2029620','SRR2029621','SRR2029626']
+
+print(df.filter(SRRs, axis=0))
+
 
 # And check loc/iloc for subsetting
 # df.loc[:,:]
@@ -89,3 +97,4 @@ def listsum(l):
 # df.fillna(WHATEVER)
 
 # pivot is the opposite of melt !!! Good for pairwise pmatrix construction
+
