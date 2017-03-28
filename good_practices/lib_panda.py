@@ -74,6 +74,8 @@ SRRs =['SRR2028247','SRR2029611','SRR2029614','SRR2029615','SRR2029617','SRR2029
 
 print(df.filter(SRRs, axis=0))
 
+# Filter by regex
+df.filter(regex='test')
 
 # And check loc/iloc for subsetting
 # df.loc[:,:]
@@ -81,6 +83,9 @@ print(df.filter(SRRs, axis=0))
 # Build dataframes
 ## The equivalent of rbind
 #df.append(pds.DataFrame(XXXXXXXXXXXX))
+
+# Merge tables
+# Check concat, merge etc...
 
 # Change the index of a df
 # df.setindex('nameofcolum')
