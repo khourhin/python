@@ -103,3 +103,6 @@ df.filter(regex='test')
 
 # pivot is the opposite of melt !!! Good for pairwise pmatrix construction
 
+# Change type of data
+# Ex str > numeric
+df.astype('float')
