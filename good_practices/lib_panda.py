@@ -106,3 +106,10 @@ df.filter(regex='test')
 # Change type of data
 # Ex str > numeric
 df.astype('float')
+
+# Subsetting table with
+df = pd.DataFrame({"X": [1,1,2,1,1], "Y": ["A","D","B","C", "D"]})
+# Version 1
+df[(df.X == 1) & df.Y.isin(["A","B","C"])]
+# Version 2
+df.query("X == 1 and Y in ['A','B','C']")
