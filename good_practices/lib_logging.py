@@ -15,8 +15,15 @@ logger.warning("Some warning message")
 logger.info("And it's done now, see you next time !")
 
 ################################################################################
+# QUICK LOGGING TO BOTH FILE and STDERR !!!
+################################################################################
+import logging
+logging.basicConfig(filename='example.log',level=logging.DEBUG)
+logging.getLogger().addHandler(logging.StreamHandler())
+
+################################################################################
 # OTHER SETUP
-# WITH LOGGING FILES
+# WITH LOGGING FILES and 
 ################################################################################
 
 logger = logging.getLogger(__name__)
