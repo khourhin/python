@@ -42,3 +42,21 @@ logger.addHandler(handler)
 
 logger.info('Hello baby')
 logger.debug('testing')
+
+################################################################################
+# COMPLETE PREFERED SETUP SO FAR
+# (redundant with some previous code)
+
+import os
+
+logger = logging.getLogger(os.path.basename(__file__) + " - " +  __name__)
+logger.setLevel(logging.DEBUG)
+
+handler = logging.FileHandler('/home/ekornobis/logs/common.log')
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+# add the handlers to the logger
+logger.addHandler(handler)
+
+
