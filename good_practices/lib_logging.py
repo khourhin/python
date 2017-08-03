@@ -52,7 +52,7 @@ import os
 logger = logging.getLogger(os.path.basename(__file__) + " - " +  __name__)
 logger.setLevel(logging.DEBUG)
 
-handler = logging.FileHandler('/home/ekornobis/logs/common.log')
+handler = logging.FileHandler(os.path.expanduser('~/logs/common.log'))
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 
