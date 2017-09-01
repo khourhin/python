@@ -1,0 +1,18 @@
+#+TITLE: Python snippets
+
+* Dictionnaries
+** Populate a dictionnary 
+#+BEGIN_SRC ipython :session s1 :exports both
+  d = {}
+  d['a'] = [1]
+
+  # Add item to the list
+  d.setdefault('a', []).append(2)
+  d.setdefault('b', []).append(3)
+
+  d
+#+END_SRC
+
+#+RESULTS:
+| a | : | (1 2) | b | : | (3) |
+
