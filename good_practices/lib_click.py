@@ -18,6 +18,7 @@ def hello(message, repeats):
 @click.option('--strand', default=0, type=int, required=True, help='Strandedness: 0:not stranded; 1:stranded; 2: reverse stranded.')
 @click.option('--paired', default=False, type=bool, required=True, help='Paired end: either True or False.')
 @click.option('--json_out', default='snakemake.json', type=str, help='Path to the json output.')
+@click.option('--fixed_exons', is_flag=True, help="Set a fixed size for the exons")
 def main(**kwargs):
     """A simple parser to get NGS library information
     """
@@ -29,4 +30,5 @@ def main(**kwargs):
 if __name__ == '__main__':
     # Check automatic help generated:
     # python lib_click.py --help
-    hello()
+    #hello()
+    main()
