@@ -1,4 +1,5 @@
 from multiprocessing import Pool
+from functools import partial # For multiple arguments
 
 
 def f(x):
