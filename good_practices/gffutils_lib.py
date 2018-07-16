@@ -44,7 +44,7 @@ def gffutils_demo(gene_id, db):
 
     # Show its attributes
     gene.attributes.items()
-    
+
     # Get one
     gene.attributes['gene_name']
 
@@ -65,7 +65,7 @@ def write_gff(db, fn):
     """
 
     log.info('writing db to file {}'.format(fn))
-    
+
     with open(fn, 'w') as f:
         for i in db.all_features(order_by="start"):
             f.write(str(i) + '\n')
@@ -73,7 +73,8 @@ def write_gff(db, fn):
 
 if __name__ == '__main__':
 
-    log.warning('This module is designed with ENSEMBL GTFs in mind. Do not know how this would work with UCSC ones.')
+    log.warning(
+        'This module is designed with ENSEMBL GTFs in mind. Do not know how this would work with UCSC ones.')
 
     # From a gtf file from ensembl create another gtf with introns
     # added
@@ -81,16 +82,15 @@ if __name__ == '__main__':
     gtf = '/home/ekornobis/data/genomes/ensembl/h_sapiens/hg37/oHmo_sapiens.GRCh37.75.gtf'
     dbfn = 'hg37.db'
     out_gtf = 'test.gtf'
-    
+
     create_db(gtf, dbfn)
     db = gffutils.FeatureDB(dbfn)
-    
+
     # Generate introns from the db
     log.info('Calculating introns')
-    introns = db.create_introns()
+    introns = db.create_introns(merge_attributes=True)
 
     # Write gff will not work here, so using a simple loop
     with open(out_gtf, 'w') as f:
         for i in introns:
             f.write(str(i) + '\n')
-    
