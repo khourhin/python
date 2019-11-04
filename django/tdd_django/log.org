@@ -1,5 +1,5 @@
 Following TDD with python:
-http://chimera.labs.oreilly.com/books/1234000000754/index.html
+https://www.obeythetestinggoat.com/book/chapter_01.html
 
 * Django
 # start a project
